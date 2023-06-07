@@ -1,3 +1,13 @@
+train/model/*
+test/model/*
+!train/model/.gitkeep
+!test/model/.gitkeep
+
+train/wiki/*
+test/wiki/*
+!train/wiki/.gitkeep
+!test/wiki/.gitkeep
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]

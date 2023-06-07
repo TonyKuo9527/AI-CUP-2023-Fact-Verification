@@ -1,0 +1,989 @@
+{"id": 5208, "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": null}
+{"id": 1019, "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": null}
+{"id": 8514, "predicted_label": "REFUTES", "predicted_evidence": [["綠山城縣", 0]]}
+{"id": 1874, "predicted_label": "SUPPORTS", "predicted_evidence": [["魂斷藍橋", 0], ["費雯·麗", 5], ["費雯·麗", 1]]}
+{"id": 8352, "predicted_label": "SUPPORTS", "predicted_evidence": [["侯孝賢", 2], ["侯孝賢", 1], ["侯孝賢", 3], ["侯孝賢", 0], ["侯孝賢", 4]]}
+{"id": 4603, "predicted_label": "SUPPORTS", "predicted_evidence": [["薄熙來", 7], ["薄熙來", 2], ["薄熙來", 1], ["姚慶", 0], ["薄熙來", 6]]}
+{"id": 3147, "predicted_label": "SUPPORTS", "predicted_evidence": [["水星凌日", 8], ["水星凌日_(土星)", 5], ["水星凌日_(金星)", 2], ["水星凌日_(土星)", 4], ["水星凌日_(木星)", 0]]}
+{"id": 5829, "predicted_label": "SUPPORTS", "predicted_evidence": [["馬克思主義政治經濟學", 0]]}
+{"id": 2656, "predicted_label": "REFUTES", "predicted_evidence": [["一貫道", 7], ["無生老母", 0], ["一貫道", 4]]}
+{"id": 3887, "predicted_label": "SUPPORTS", "predicted_evidence": [["回族", 2], ["回族", 0], ["回族", 3], ["回族", 12], ["回族", 9]]}
+{"id": 2268, "predicted_label": "REFUTES", "predicted_evidence": [["天衛四", 8], ["撞擊坑", 10], ["耶澤羅撞擊坑", 3]]}
+{"id": 7468, "predicted_label": "SUPPORTS", "predicted_evidence": [["玲子·艾爾斯沃斯", 2], ["玲子·艾爾斯沃斯", 1], ["玲子·艾爾斯沃斯", 0], ["玲子·艾爾斯沃斯", 3], ["卡士蒂索人", 0]]}
+{"id": 9045, "predicted_label": "SUPPORTS", "predicted_evidence": [["法輪功在臺灣", 4], ["法輪功在臺灣", 0], ["獨絃琴", 8]]}
+{"id": 3693, "predicted_label": "SUPPORTS", "predicted_evidence": [["克藍瑪對克藍瑪", 1], ["克藍瑪對克藍瑪", 0], ["奧斯卡最佳改編劇本獎", 9], ["奧斯卡最佳改編劇本獎", 0], ["奧斯卡最佳改編劇本獎", 7]]}
+{"id": 4173, "predicted_label": "REFUTES", "predicted_evidence": [["反射_(物理學)", 7], ["反射_(物理學)", 9], ["反射_(物理學)", 6], ["反射", 0], ["反射_(數學)", 11]]}
+{"id": 3289, "predicted_label": "REFUTES", "predicted_evidence": [["彌涅耳瓦", 10], ["彌涅耳瓦", 1], ["宇宙的終極命運", 0], ["彌涅耳瓦", 6], ["彌涅耳瓦", 0]]}
+{"id": 133, "predicted_label": "SUPPORTS", "predicted_evidence": [["樂山大佛", 1], ["樂山大佛", 0], ["樂山大佛", 3], ["樂山大佛", 5], ["樂山大佛", 6]]}
+{"id": 2722, "predicted_label": "SUPPORTS", "predicted_evidence": [["韓國電視劇", 17], ["韓國電視劇", 16], ["Freeform", 1], ["韓國電視劇", 0], ["韓國電視劇", 3]]}
+{"id": 1838, "predicted_label": "SUPPORTS", "predicted_evidence": [["XBRL", 0], ["XBRL", 6], ["XML", 0], ["置標語言", 0], ["置標語言", 2]]}
+{"id": 3395, "predicted_label": "SUPPORTS", "predicted_evidence": [["史蒂夫·喬布斯", 5], ["史蒂夫·喬布斯", 6], ["史蒂夫·喬布斯", 7], ["史蒂夫·喬布斯", 13], ["史蒂夫·喬布斯", 0]]}
+{"id": 5437, "predicted_label": "REFUTES", "predicted_evidence": [["中國政法大學", 43], ["中國政法大學", 14], ["中國政法大學", 0], ["中國政法大學", 24], ["211工程", 0]]}
+{"id": 4278, "predicted_label": "SUPPORTS", "predicted_evidence": [["珠江三角洲", 2], ["珠江_(消歧義)", 2], ["珠江", 0], ["珠江", 2], ["珠江三角洲", 1]]}
+{"id": 663, "predicted_label": "REFUTES", "predicted_evidence": [["亞伯拉罕諸教", 0], ["伊斯蘭教", 0]]}
+{"id": 5583, "predicted_label": "SUPPORTS", "predicted_evidence": [["金獅獎_(消歧義)", 2], ["金獅獎_(消歧義)", 4], ["金獅獎_(消歧義)", 9], ["金獅獎_(消歧義)", 0], ["金獅獎_(消歧義)", 7]]}
+{"id": 5237, "predicted_label": "SUPPORTS", "predicted_evidence": [["對日民間索賠", 1], ["對日民間索賠", 0], ["卡斯帕·大衛·弗雷德里希", 24]]}
+{"id": 8329, "predicted_label": "REFUTES", "predicted_evidence": [["汾河", 8], ["汾河", 0], ["汾河", 9], ["汾河", 6], ["汾河", 14]]}
+{"id": 1766, "predicted_label": "REFUTES", "predicted_evidence": [["東帝汶", 3], ["東帝汶", 0], ["東帝汶", 2]]}
+{"id": 3915, "predicted_label": "REFUTES", "predicted_evidence": [["弗拉基米爾·普京", 171], ["弗拉基米爾·普京", 170], ["弗拉基米爾·普京", 172], ["弗拉基米爾·普京", 175], ["弗拉基米爾·普京", 166]]}
+{"id": 3108, "predicted_label": "REFUTES", "predicted_evidence": [["阿曼", 1], ["阿曼", 0], ["阿拉伯半島", 0], ["阿拉伯半島", 3]]}
+{"id": 3042, "predicted_label": "SUPPORTS", "predicted_evidence": [["索爾", 1], ["索爾", 0]]}
+{"id": 909, "predicted_label": "REFUTES", "predicted_evidence": [["行政法", 5], ["行政法", 1], ["行政法", 0]]}
+{"id": 3225, "predicted_label": "SUPPORTS", "predicted_evidence": [["英國廣播公司", 3], ["英國廣播公司", 4]]}
+{"id": 1109, "predicted_label": "REFUTES", "predicted_evidence": [["戰爭與和平", 0], ["戰爭與和平_(電影系列)", 0]]}
+{"id": 659, "predicted_label": "REFUTES", "predicted_evidence": [["燕山大學", 51], ["燕山大學", 32], ["燕山大學", 2], ["燕山大學", 44], ["燕山大學", 0]]}
+{"id": 4735, "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": null}
+{"id": 641, "predicted_label": "REFUTES", "predicted_evidence": [["懷化市", 0], ["懷化市", 8], ["懷化市", 4], ["鶴城", 4]]}
+{"id": 4750, "predicted_label": "SUPPORTS", "predicted_evidence": [["螺旋動物", 0], ["螺旋動物", 1], ["原口動物", 2], ["原口動物", 3], ["螺旋動物", 2]]}
+{"id": 6073, "predicted_label": "SUPPORTS", "predicted_evidence": [["六和敬", 0], ["生活型態", 0], ["六和敬", 4], ["六和敬", 10], ["生活型態", 2]]}
+{"id": 6689, "predicted_label": "REFUTES", "predicted_evidence": [["弗朗茨·卡夫卡", 21], ["弗朗茨·卡夫卡", 20], ["弗朗茨·卡夫卡", 12], ["弗朗茨·卡夫卡", 22], ["弗朗茨·卡夫卡", 0]]}
+{"id": 5380, "predicted_label": "SUPPORTS", "predicted_evidence": [["金朝", 18], ["金朝", 17], ["金朝", 16]]}
+{"id": 5418, "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": null}
+{"id": 1250, "predicted_label": "REFUTES", "predicted_evidence": [["歐洲民族", 2], ["歐洲民族", 1], ["歐洲民族", 0], ["歐洲民族", 5], ["歐洲民族", 101]]}
+{"id": 8943, "predicted_label": "REFUTES", "predicted_evidence": [["兒玉利國", 0], ["兒玉利國", 1], ["兒玉利國", 2], ["木下週一", 0]]}
+{"id": 4898, "predicted_label": "SUPPORTS", "predicted_evidence": [["朱棣文", 9], ["朱棣文", 8], ["朱棣文", 3]]}
+{"id": 6456, "predicted_label": "REFUTES", "predicted_evidence": [["威廉·華茲華斯", 0], ["威廉·華茲華斯", 1]]}
+{"id": 3877, "predicted_label": "SUPPORTS", "predicted_evidence": [["沈鈞儒", 0], ["沈鈞儒", 1], ["陳鼐_(清朝進士)", 1], ["陳鼐_(清朝進士)", 0]]}
+{"id": 4920, "predicted_label": "SUPPORTS", "predicted_evidence": [["皮特·烏斯蒂諾夫", 5], ["皮特·烏斯蒂諾夫", 1], ["皮特·烏斯蒂諾夫", 2], ["皮特·烏斯蒂諾夫", 0], ["皮特·烏斯蒂諾夫", 17]]}
+{"id": 5996, "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": null}
+{"id": 1179, "predicted_label": "SUPPORTS", "predicted_evidence": [["普路託", 0], ["普路託", 6], ["普路託", 5], ["普路託", 15], ["普路託", 1]]}
+{"id": 3784, "predicted_label": "SUPPORTS", "predicted_evidence": [["複合材料", 8], ["複合材料", 9], ["複合材料", 7]]}
+{"id": 8921, "predicted_label": "SUPPORTS", "predicted_evidence": [["第7號交響曲_(馬勒)", 0], ["第7號交響曲_(馬勒)", 1]]}
+{"id": 3087, "predicted_label": "SUPPORTS", "predicted_evidence": [["竹內瑪莉亞", 0], ["竹內瑪莉亞", 2], ["竹內瑪莉亞", 1], ["山下達郎", 5]]}
+{"id": 6616, "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": null}
+{"id": 3828, "predicted_label": "SUPPORTS", "predicted_evidence": [["亞歷山大·克倫斯基", 1], ["亞歷山大·克倫斯基", 0]]}
+{"id": 3058, "predicted_label": "REFUTES", "predicted_evidence": [["全羅北道", 14], ["全羅北道", 0], ["賓州", 6], ["賓州_(遼朝)", 3], ["賓州", 0]]}
+{"id": 493, "predicted_label": "REFUTES", "predicted_evidence": [["伍迪·艾倫", 56], ["伍迪·艾倫", 63], ["伍迪·艾倫", 64], ["伍迪·艾倫", 46], ["伍迪·艾倫", 49]]}
+{"id": 485, "predicted_label": "SUPPORTS", "predicted_evidence": [["伍迪·艾倫", 57], ["伍迪·艾倫", 69], ["伍迪·艾倫", 74], ["伍迪·艾倫", 65], ["伍迪·艾倫", 20]]}
+{"id": 4025, "predicted_label": "REFUTES", "predicted_evidence": [["釀造醋", 0], ["釀造醋", 1], ["釀造醋", 7], ["釀造醋", 4]]}
+{"id": 5568, "predicted_label": "SUPPORTS", "predicted_evidence": [["卡拉卡爾帕克斯坦共和國", 13], ["卡拉卡爾帕克斯坦共和國", 15], ["卡拉卡爾帕克人", 0], ["卡拉卡爾帕克斯坦共和國", 2]]}
+{"id": 950, "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": null}
+{"id": 6126, "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": null}
+{"id": 5458, "predicted_label": "REFUTES", "predicted_evidence": [["乙炔", 0], ["乙炔", 14], ["乙炔", 15], ["乙炔", 1]]}
+{"id": 5692, "predicted_label": "REFUTES", "predicted_evidence": [["格奧爾格·康托爾", 5], ["格奧爾格·康托爾", 15], ["格奧爾格·康托爾", 14], ["格奧爾格·康托爾", 9], ["格奧爾格·康托爾", 11]]}
+{"id": 4245, "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": null}
+{"id": 4852, "predicted_label": "SUPPORTS", "predicted_evidence": [["關羽", 15], ["三國演義", 0], ["關羽", 16], ["關羽", 12], ["關羽", 11]]}
+{"id": 4539, "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": null}
+{"id": 2045, "predicted_label": "REFUTES", "predicted_evidence": [["土衛十一", 0], ["海衛十四", 0]]}
+{"id": 3837, "predicted_label": "SUPPORTS", "predicted_evidence": [["墨家", 8], ["墨家", 9]]}
+{"id": 8153, "predicted_label": "REFUTES", "predicted_evidence": [["高安公寓", 0], ["高安公寓", 3], ["高安公寓", 4]]}
+{"id": 3556, "predicted_label": "REFUTES", "predicted_evidence": [["流產", 1], ["流產", 27]]}
+{"id": 8717, "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": null}
+{"id": 819, "predicted_label": "REFUTES", "predicted_evidence": [["弗拉基米爾·普京", 175], ["弗拉基米爾·普京", 170], ["弗拉基米爾·普京", 166], ["弗拉基米爾·普京", 171], ["弗拉基米爾·普京", 172]]}
+{"id": 9036, "predicted_label": "REFUTES", "predicted_evidence": [["崇義郡", 4], ["崇義郡", 0], ["崇義郡", 3], ["崇義郡", 5], ["崇義郡", 6]]}
+{"id": 831, "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": null}
+{"id": 5121, "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": null}
+{"id": 5592, "predicted_label": "REFUTES", "predicted_evidence": [["大麥", 2], ["大麥", 1], ["大麥", 0], ["青稞", 0]]}
+{"id": 1617, "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": null}
+{"id": 5283, "predicted_label": "REFUTES", "predicted_evidence": [["荷馬史詩", 2], ["荷馬史詩", 0], ["荷馬史詩", 3], ["荷馬史詩", 9], ["荷馬史詩", 4]]}
+{"id": 2172, "predicted_label": "SUPPORTS", "predicted_evidence": [["南京師範大學附屬中學", 0], ["南京大學附屬中學_(消歧義)", 2], ["南京師範大學附屬中學", 1]]}
+{"id": 4333, "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": null}
+{"id": 7737, "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": null}
+{"id": 7793, "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": null}
+{"id": 4902, "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": null}
+{"id": 8431, "predicted_label": "SUPPORTS", "predicted_evidence": [["啤酒", 0], ["啤酒", 15], ["啤酒", 4], ["啤酒", 8], ["啤酒", 16]]}
+{"id": 539, "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": null}
+{"id": 422, "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": null}
+{"id": 2375, "predicted_label": "SUPPORTS", "predicted_evidence": [["華南理工大學", 57], ["華南理工大學", 58], ["華南理工大學", 54], ["華南理工大學", 50], ["華南理工大學", 2]]}
+{"id": 5869, "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": null}
+{"id": 187, "predicted_label": "SUPPORTS", "predicted_evidence": [["尼克·貝爾格", 1], ["尼克·貝爾格", 3], ["尼克·貝爾格", 0], ["尼克·貝爾格", 2]]}
+{"id": 7314, "predicted_label": "SUPPORTS", "predicted_evidence": [["南投縣", 4], ["南投縣", 0], ["南投縣", 3], ["南投縣", 1], ["南投縣", 2]]}
+{"id": 3930, "predicted_label": "REFUTES", "predicted_evidence": [["馬寅初", 10], ["馬寅初", 11], ["馬寅初", 9], ["馬寅初", 4], ["馬寅初", 5]]}
+{"id": 184, "predicted_label": "SUPPORTS", "predicted_evidence": [["尼克·貝爾格", 1], ["尼克·貝爾格", 0], ["尼克·貝爾格", 3], ["尼克·貝爾格", 2]]}
+{"id": 1723, "predicted_label": "SUPPORTS", "predicted_evidence": [["康奈爾大學", 59], ["康奈爾大學", 26]]}
+{"id": 7908, "predicted_label": "REFUTES", "predicted_evidence": [["章伯鈞", 0], ["章伯鈞", 1], ["安徽省桐城中學", 0]]}
+{"id": 5979, "predicted_label": "SUPPORTS", "predicted_evidence": [["溶解度", 0], ["溶解度", 9], ["過飽和", 3], ["過飽和", 1], ["溶解度", 8]]}
+{"id": 3386, "predicted_label": "REFUTES", "predicted_evidence": [["秦腔", 3], ["文化大革命", 0], ["秦腔", 1]]}
+{"id": 1811, "predicted_label": "SUPPORTS", "predicted_evidence": [["排球", 4]]}
+{"id": 9053, "predicted_label": "SUPPORTS", "predicted_evidence": [["變流技術", 0], ["變流技術", 5], ["變流技術", 8], ["變流技術", 25], ["變流技術", 1]]}
+{"id": 2803, "predicted_label": "REFUTES", "predicted_evidence": [["京杭大運河", 1], ["京杭大運河", 0], ["番紅花城", 1]]}
+{"id": 7694, "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": null}
+{"id": 5168, "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": null}
+{"id": 528, "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": null}
+{"id": 7355, "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": null}
+{"id": 8766, "predicted_label": "SUPPORTS", "predicted_evidence": [["轅門", 3], ["轅門", 1], ["轅門", 7], ["轅門", 0], ["轅門", 2]]}
+{"id": 4786, "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": null}
+{"id": 557, "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": null}
+{"id": 567, "predicted_label": "REFUTES", "predicted_evidence": [["荷馬", 1]]}
+{"id": 5317, "predicted_label": "REFUTES", "predicted_evidence": [["洞裏薩湖", 0]]}
+{"id": 1672, "predicted_label": "SUPPORTS", "predicted_evidence": [["伊萬·屠格涅夫", 0]]}
+{"id": 855, "predicted_label": "SUPPORTS", "predicted_evidence": [["黑血_(漫畫)", 2]]}
+{"id": 5043, "predicted_label": "SUPPORTS", "predicted_evidence": [["安德斯·海爾斯伯格", 0], ["安德斯·海爾斯伯格", 1]]}
+{"id": 3140, "predicted_label": "SUPPORTS", "predicted_evidence": [["鹿鼎記", 2], ["鹿鼎記", 3], ["金庸", 3]]}
+{"id": 1655, "predicted_label": "REFUTES", "predicted_evidence": [["弗朗西斯·斯科特·菲茨傑拉德", 2], ["弗朗西斯·斯科特·菲茨傑拉德", 0], ["了不起的蓋茨比", 1], ["弗朗西斯·斯科特·菲茨傑拉德", 6], ["了不起的蓋茨比", 7]]}
+{"id": 1025, "predicted_label": "REFUTES", "predicted_evidence": [["馬達加斯加", 4], ["馬達加斯加", 3]]}
+{"id": 5278, "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": null}
+{"id": 8402, "predicted_label": "SUPPORTS", "predicted_evidence": [["瓦西里·康定斯基", 7], ["瓦西里·康定斯基", 6], ["瓦西里·康定斯基", 3], ["瓦西里·康定斯基", 0], ["瓦西里·康定斯基", 5]]}
+{"id": 3897, "predicted_label": "REFUTES", "predicted_evidence": [["淮劇", 13], ["淮劇", 8]]}
+{"id": 5090, "predicted_label": "REFUTES", "predicted_evidence": [["Yahoo!_Messenger", 13], ["Yahoo!_Messenger", 19], ["Yahoo!_Messenger", 20], ["Yahoo!_Messenger", 0], ["Yahoo!_Messenger", 1]]}
+{"id": 6465, "predicted_label": "REFUTES", "predicted_evidence": [["阿美族", 2], ["阿美族", 0], ["阿美族", 1], ["臺南市", 0]]}
+{"id": 9004, "predicted_label": "SUPPORTS", "predicted_evidence": [["King_Kong_by_STARSHIP娛樂", 75], ["King_Kong_by_STARSHIP娛樂", 70], ["King_Kong_by_STARSHIP娛樂", 44], ["King_Kong_by_STARSHIP娛樂", 0], ["King_Kong_by_STARSHIP娛樂", 4]]}
+{"id": 8006, "predicted_label": "SUPPORTS", "predicted_evidence": [["臺中市私立曉明女子高級中學", 1], ["臺中市私立曉明女子高級中學", 4], ["臺中市私立曉明女子高級中學", 0], ["民主湖", 0]]}
+{"id": 533, "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": null}
+{"id": 3465, "predicted_label": "SUPPORTS", "predicted_evidence": [["燕山大學", 61], ["燕山大學", 60], ["燕山大學", 62], ["燕山大學", 59], ["燕山大學", 16]]}
+{"id": 5795, "predicted_label": "REFUTES", "predicted_evidence": [["馬克思主義政治經濟學", 0]]}
+{"id": 6492, "predicted_label": "SUPPORTS", "predicted_evidence": [["西亞", 0], ["西亞", 1], ["西亞", 5], ["中東", 0], ["西亞", 4]]}
+{"id": 5251, "predicted_label": "SUPPORTS", "predicted_evidence": [["袖章", 16], ["袖章", 14], ["袖章", 2], ["袖章", 15], ["袖章", 6]]}
+{"id": 3374, "predicted_label": "REFUTES", "predicted_evidence": [["斯卡帕灣", 8], ["公海艦隊自沉事件", 0], ["公海艦隊自沉事件", 3], ["斯卡帕灣", 7], ["公海艦隊自沉事件", 6]]}
+{"id": 6513, "predicted_label": "SUPPORTS", "predicted_evidence": [["聖經", 1], ["聖經", 2], ["聖經", 0], ["猶太教", 1], ["聖經_(消歧義)", 0]]}
+{"id": 8151, "predicted_label": "SUPPORTS", "predicted_evidence": [["高安公寓", 0], ["對面海邨", 8], ["高安公寓", 3], ["對面海邨", 12], ["對面海邨", 2]]}
+{"id": 2871, "predicted_label": "REFUTES", "predicted_evidence": [["藥物", 0], ["藥物", 1], ["藥物", 6], ["藥物", 9], ["藥物", 5]]}
+{"id": 3354, "predicted_label": "REFUTES", "predicted_evidence": [["海衛十", 2], ["海衛十", 0], ["行星_(占星術)", 5], ["海衛十", 1], ["太陽系", 6]]}
+{"id": 5643, "predicted_label": "SUPPORTS", "predicted_evidence": [["新興宗教", 11], ["新興宗教", 10], ["新興宗教", 9], ["新興宗教", 0], ["新興宗教", 7]]}
+{"id": 7891, "predicted_label": "SUPPORTS", "predicted_evidence": [["蟲川大杉車站", 3], ["蟲川大杉車站", 0]]}
+{"id": 8185, "predicted_label": "SUPPORTS", "predicted_evidence": [["李祖德", 0]]}
+{"id": 9032, "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": null}
+{"id": 714, "predicted_label": "REFUTES", "predicted_evidence": [["賽普勒斯", 3], ["萊因德數學紙草書", 8], ["萊因德數學紙草書", 0], ["約翰內斯·開普勒", 11]]}
+{"id": 7131, "predicted_label": "SUPPORTS", "predicted_evidence": [["北马里亞納群島", 4], ["北马里亞納群島", 3], ["北马里亞納群島", 0], ["北马里亞納群島", 8], ["北马里亞納群島", 2]]}
+{"id": 3578, "predicted_label": "REFUTES", "predicted_evidence": [["德州儀器", 53], ["德州儀器", 50], ["德州儀器", 51], ["德州儀器", 52], ["德州儀器", 54]]}
+{"id": 322, "predicted_label": "SUPPORTS", "predicted_evidence": [["北京理工大學", 75], ["北京理工大學", 65], ["北京理工大學", 71], ["北京理工大學", 36], ["北京理工大學", 69]]}
+{"id": 6642, "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": null}
+{"id": 8206, "predicted_label": "SUPPORTS", "predicted_evidence": [["SETI@home", 52], ["SETI@home", 31], ["SETI@home", 61], ["SETI@home", 29], ["BOINC", 0]]}
+{"id": 1877, "predicted_label": "SUPPORTS", "predicted_evidence": [["文森特·梵高", 6], ["文森特·梵高", 8], ["文森特·梵高", 11], ["語言教育", 2], ["文森特·梵高", 0]]}
+{"id": 1548, "predicted_label": "SUPPORTS", "predicted_evidence": [["夸克", 8], ["夸克", 9], ["夸克", 7], ["粒子衰變", 0], ["粒子衰變", 2]]}
+{"id": 6188, "predicted_label": "REFUTES", "predicted_evidence": [["東晉", 29], ["東晉", 1], ["劉宋", 0], ["東晉", 26], ["東晉", 18]]}
+{"id": 7854, "predicted_label": "SUPPORTS", "predicted_evidence": [["英國手語", 5], ["英國手語", 0]]}
+{"id": 2100, "predicted_label": "SUPPORTS", "predicted_evidence": [["大衛·貝克漢姆", 9], ["大衛·貝克漢姆", 10], ["大衛·貝克漢姆", 0], ["大衛·貝克漢姆", 3], ["大衛·貝克漢姆", 5]]}
+{"id": 9062, "predicted_label": "SUPPORTS", "predicted_evidence": [["幾何學", 7], ["幾何學", 11], ["幾何學", 35], ["幾何學", 15], ["幾何學", 26]]}
+{"id": 1317, "predicted_label": "REFUTES", "predicted_evidence": [["劍橋大學", 7], ["三一學院_(都柏林)", 0], ["三一學院_(都柏林)", 7], ["劍橋大學", 6], ["三一學院_(都柏林)", 15]]}
+{"id": 3938, "predicted_label": "SUPPORTS", "predicted_evidence": [["臼井儀人", 2], ["蠟筆小新", 3], ["蠟筆小新", 0], ["蠟筆小新", 7], ["南迦帕爾巴特峯", 0]]}
+{"id": 1958, "predicted_label": "SUPPORTS", "predicted_evidence": [["威廉·亨利·哈里森", 0], ["威廉·亨利·哈里森", 23], ["錢德拉·謝卡爾", 7], ["威廉·亨利·哈里森", 13], ["威廉·亨利·哈里森", 25]]}
+{"id": 3810, "predicted_label": "SUPPORTS", "predicted_evidence": [["小麥", 6]]}
+{"id": 1679, "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": null}
+{"id": 7892, "predicted_label": "SUPPORTS", "predicted_evidence": [["蟲川大杉車站", 3], ["蟲川大杉車站", 0]]}
+{"id": 2188, "predicted_label": "SUPPORTS", "predicted_evidence": [["人類演化", 6], ["人類演化", 0], ["人類演化", 13], ["人類演化", 7]]}
+{"id": 5701, "predicted_label": "SUPPORTS", "predicted_evidence": [["希臘神話", 14], ["希臘神話", 6], ["希臘神話", 16], ["希臘神話", 2], ["希臘神話", 11]]}
+{"id": 7734, "predicted_label": "REFUTES", "predicted_evidence": [["伊拉克戰爭", 5], ["伊拉克戰爭", 3], ["伊拉克戰爭", 0]]}
+{"id": 3646, "predicted_label": "SUPPORTS", "predicted_evidence": [["徐有庠", 1], ["遠東集團_(臺灣)", 0], ["徐有庠", 0]]}
+{"id": 6798, "predicted_label": "SUPPORTS", "predicted_evidence": [["聖保羅書院", 5], ["聖保羅書院", 4], ["聖保羅書院", 6], ["聖保羅書院", 10], ["上海市第八中學", 7]]}
+{"id": 5732, "predicted_label": "SUPPORTS", "predicted_evidence": [["赤足", 8], ["赤足", 9], ["赤足", 2]]}
+{"id": 3120, "predicted_label": "SUPPORTS", "predicted_evidence": [["列昂尼德·勃列日涅夫", 8], ["列昂尼德·勃列日涅夫", 6], ["列昂尼德·勃列日涅夫", 5], ["列昂尼德·勃列日涅夫", 9], ["列昂尼德·勃列日涅夫", 10]]}
+{"id": 3822, "predicted_label": "REFUTES", "predicted_evidence": [["蔡英文", 14], ["蔡英文", 19], ["蔡英文", 15], ["蔡英文", 18], ["蔡英文", 25]]}
+{"id": 625, "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": null}
+{"id": 701, "predicted_label": "SUPPORTS", "predicted_evidence": [["漢初三傑", 0], ["漢初三傑", 7], ["漢初三傑", 1], ["漢初三傑", 11], ["漢初三傑", 6]]}
+{"id": 5675, "predicted_label": "REFUTES", "predicted_evidence": [["香杏麗蘑", 1], ["香杏麗蘑", 2], ["香杏麗蘑", 0], ["香杏麗蘑", 5], ["香杏麗蘑", 7]]}
+{"id": 2143, "predicted_label": "SUPPORTS", "predicted_evidence": [["濺射", 0], ["濺射", 9], ["化學氣相沉積", 0], ["濺射", 23], ["濺射", 15]]}
+{"id": 6331, "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": null}
+{"id": 6971, "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": null}
+{"id": 3935, "predicted_label": "REFUTES", "predicted_evidence": [["印度人民黨", 77], ["印度人民黨", 79], ["印度人民黨", 83], ["印度人民黨", 76], ["印度人民黨", 75]]}
+{"id": 4074, "predicted_label": "REFUTES", "predicted_evidence": [["環氧乙烷", 0], ["良性", 0], ["環氧乙烷", 1], ["環氧乙烷", 2], ["良性", 3]]}
+{"id": 6672, "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": null}
+{"id": 5117, "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": null}
+{"id": 1873, "predicted_label": "REFUTES", "predicted_evidence": [["克萊兒·丹妮絲", 5], ["費雯·麗", 5], ["魂斷藍橋", 0]]}
+{"id": 2771, "predicted_label": "SUPPORTS", "predicted_evidence": [["韓式泡菜", 4], ["韓式泡菜", 3], ["韓式泡菜", 0]]}
+{"id": 300, "predicted_label": "SUPPORTS", "predicted_evidence": [["李賦寧", 0]]}
+{"id": 5459, "predicted_label": "SUPPORTS", "predicted_evidence": [["乙炔", 0], ["乙炔", 14], ["乙炔", 1]]}
+{"id": 8447, "predicted_label": "SUPPORTS", "predicted_evidence": [["永琮", 9], ["永琮", 6], ["永琮", 17], ["永琮", 1], ["永琮", 5]]}
+{"id": 2941, "predicted_label": "REFUTES", "predicted_evidence": [["威廉·莎士比亞", 0], ["威廉·莎士比亞", 13], ["威廉·莎士比亞", 1], ["威廉·莎士比亞", 15], ["威廉·莎士比亞", 14]]}
+{"id": 4007, "predicted_label": "REFUTES", "predicted_evidence": [["格奧爾格·康托爾", 15], ["格奧爾格·康托爾", 11], ["格奧爾格·康托爾", 5], ["格奧爾格·康托爾", 0], ["格奧爾格·康托爾", 4]]}
+{"id": 3933, "predicted_label": "REFUTES", "predicted_evidence": [["印度人民黨", 77], ["印度人民黨", 76], ["印度人民黨", 75], ["印度人民黨", 79], ["印度人民黨", 83]]}
+{"id": 5571, "predicted_label": "SUPPORTS", "predicted_evidence": [["伍德羅·威爾遜", 5], ["伍德羅·威爾遜", 4], ["伍德羅·威爾遜", 3], ["伍德羅·威爾遜", 0], ["伍德羅·威爾遜", 13]]}
+{"id": 3152, "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": null}
+{"id": 5973, "predicted_label": "SUPPORTS", "predicted_evidence": [["果實", 0], ["子房", 8], ["果實", 8], ["子房", 4], ["果實", 1]]}
+{"id": 2731, "predicted_label": "SUPPORTS", "predicted_evidence": [["戊戌變法", 1], ["戊戌變法", 2], ["戊戌變法", 0], ["康有爲", 1], ["康有爲", 0]]}
+{"id": 7700, "predicted_label": "REFUTES", "predicted_evidence": [["國立臺灣大學昆蟲標本館", 1]]}
+{"id": 1981, "predicted_label": "REFUTES", "predicted_evidence": [["覃炳鑫", 5], ["管致中", 2], ["管致中", 10], ["覃炳鑫", 3], ["管致中", 5]]}
+{"id": 7739, "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": null}
+{"id": 1323, "predicted_label": "REFUTES", "predicted_evidence": [["劍橋大學", 7], ["劍橋大學", 6], ["劍橋大學", 3]]}
+{"id": 6899, "predicted_label": "SUPPORTS", "predicted_evidence": [["晶體學", 11], ["X射線晶體學", 1]]}
+{"id": 222, "predicted_label": "REFUTES", "predicted_evidence": [["SETI@home", 44], ["SETI@home", 29], ["SETI@home", 0], ["SETI@home", 54], ["SETI@home", 31]]}
+{"id": 8140, "predicted_label": "SUPPORTS", "predicted_evidence": [["寶麗金_(臺灣)", 0], ["劉文正", 0], ["劉文正", 8], ["劉文正", 6], ["劉文正", 9]]}
+{"id": 2535, "predicted_label": "SUPPORTS", "predicted_evidence": [["黃秋生", 1], ["黃秋生", 2], ["黃秋生", 14], ["黃秋生", 11], ["黃秋生", 8]]}
+{"id": 6437, "predicted_label": "SUPPORTS", "predicted_evidence": [["巖井俊二", 1], ["巖井俊二", 2], ["巖井俊二", 0], ["巖井俊二", 6]]}
+{"id": 3407, "predicted_label": "REFUTES", "predicted_evidence": [["嵩山", 5], ["早安少女組。之突然出現的葫蘆島", 1], ["嵩山", 7], ["世界地質公園列表", 4], ["串列_(抽象資料型別)", 0]]}
+{"id": 473, "predicted_label": "SUPPORTS", "predicted_evidence": [["梁朝偉", 5], ["一天一點愛戀", 0], ["梁朝偉", 0]]}
+{"id": 7019, "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": null}
+{"id": 5637, "predicted_label": "REFUTES", "predicted_evidence": [["Key_(歌手)", 2], ["張惠妹", 7], ["張惠妹", 18], ["張惠妹", 3], ["張惠妹", 9]]}
+{"id": 8314, "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": null}
+{"id": 1386, "predicted_label": "SUPPORTS", "predicted_evidence": [["漿果", 0], ["漿果", 2], ["果實", 0], ["果實", 6], ["果實", 7]]}
+{"id": 823, "predicted_label": "REFUTES", "predicted_evidence": [["蔡英文", 25], ["蔡英文", 22], ["蔡英文", 15], ["林右昌", 10], ["蔡英文", 13]]}
+{"id": 6070, "predicted_label": "REFUTES", "predicted_evidence": [["六和敬", 0], ["生活型態", 0], ["六和敬", 4], ["六和敬", 10]]}
+{"id": 5658, "predicted_label": "REFUTES", "predicted_evidence": [["爻", 4], ["爻", 7], ["爻", 6], ["爻", 10], ["爻", 26]]}
+{"id": 4950, "predicted_label": "SUPPORTS", "predicted_evidence": [["藤子·F·不二雄", 5], ["藤子·F·不二雄", 0], ["藤子·F·不二雄", 6], ["藤子·F·不二雄創作", 0], ["藤子·F·不二雄", 1]]}
+{"id": 3126, "predicted_label": "SUPPORTS", "predicted_evidence": [["哈比人歷險記", 6], ["哈比人歷險記", 5], ["哈比人歷險記", 11], ["哈比人歷險記", 0]]}
+{"id": 5750, "predicted_label": "REFUTES", "predicted_evidence": [["馬克思主義政治經濟學", 0]]}
+{"id": 3228, "predicted_label": "SUPPORTS", "predicted_evidence": [["社會規範", 5], ["社會建構主義", 8], ["社會規範", 6], ["社會規範", 2], ["社會建構主義", 12]]}
+{"id": 4377, "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": null}
+{"id": 1307, "predicted_label": "SUPPORTS", "predicted_evidence": [["穀梁傳", 0], ["穀梁傳", 12], ["穀梁傳", 17]]}
+{"id": 5693, "predicted_label": "REFUTES", "predicted_evidence": [["格奧爾格·康托爾", 14], ["廚師", 1], ["格奧爾格·康托爾", 15], ["格奧爾格·康托爾", 5], ["廚師", 6]]}
+{"id": 1815, "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": null}
+{"id": 5296, "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": null}
+{"id": 5670, "predicted_label": "REFUTES", "predicted_evidence": [["汾河", 0], ["汾河", 2], ["汾河", 3], ["汾河", 1], ["汾河", 14]]}
+{"id": 7724, "predicted_label": "SUPPORTS", "predicted_evidence": [["釣魚臺列嶼", 1], ["釣魚臺列嶼", 0]]}
+{"id": 4938, "predicted_label": "REFUTES", "predicted_evidence": [["鹼石灰", 3], ["鹼石灰", 0]]}
+{"id": 2439, "predicted_label": "REFUTES", "predicted_evidence": [["清涼峯國家級自然保護區", 0], ["清涼峯國家級自然保護區", 1], ["清涼峯國家級自然保護區", 4], ["清涼峯國家級自然保護區", 5], ["貴州茂蘭國家級自然保護區", 0]]}
+{"id": 7151, "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": null}
+{"id": 2023, "predicted_label": "SUPPORTS", "predicted_evidence": [["荷馬史詩", 0], ["荷馬史詩", 10], ["荷馬_(紐約州)", 2], ["荷馬", 0], ["荷馬史詩", 2]]}
+{"id": 2070, "predicted_label": "SUPPORTS", "predicted_evidence": [["葡萄", 3], ["更年性水果", 0], ["仙丹花", 0]]}
+{"id": 1550, "predicted_label": "SUPPORTS", "predicted_evidence": [["宋仁宗", 3], ["宋仁宗", 2], ["宋仁宗", 0], ["康熙帝", 8], ["康熙帝", 9]]}
+{"id": 1255, "predicted_label": "REFUTES", "predicted_evidence": [["歐洲民族", 2], ["歐洲民族", 1], ["歐洲民族", 0], ["歐洲民族", 5], ["歐洲民族", 101]]}
+{"id": 4388, "predicted_label": "REFUTES", "predicted_evidence": [["金星凌日", 19], ["惡_(佛教)", 0], ["金星凌日", 17], ["金星凌日", 18], ["金星凌日_(土星)", 4]]}
+{"id": 3702, "predicted_label": "SUPPORTS", "predicted_evidence": [["摩納哥", 1], ["希臘地理", 1], ["摩納哥", 0]]}
+{"id": 7129, "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": null}
+{"id": 5177, "predicted_label": "SUPPORTS", "predicted_evidence": [["李商隱", 24], ["李商隱", 23], ["柳枝", 0]]}
+{"id": 2310, "predicted_label": "SUPPORTS", "predicted_evidence": [["國際足協世界盃", 6], ["國際足協世界盃", 2], ["1930年國際足協世界盃", 0], ["德國足協盃", 0], ["國際足協世界盃", 0]]}
+{"id": 1977, "predicted_label": "REFUTES", "predicted_evidence": [["管致中", 2], ["管致中", 10], ["管致中", 15], ["管致中", 17], ["管致中", 19]]}
+{"id": 2043, "predicted_label": "SUPPORTS", "predicted_evidence": [["土衛十一", 0]]}
+{"id": 2923, "predicted_label": "SUPPORTS", "predicted_evidence": [["宋史", 1], ["宋史", 3], ["宋史", 2], ["宋史", 0]]}
+{"id": 3793, "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": null}
+{"id": 6860, "predicted_label": "REFUTES", "predicted_evidence": [["商業", 0], ["商業", 8], ["商業", 5], ["商業", 4], ["修改條件判斷覆蓋", 0]]}
+{"id": 3865, "predicted_label": "SUPPORTS", "predicted_evidence": [["軌道共振", 7], ["軌道共振", 3], ["軌道共振", 5], ["軌道共振", 0], ["軌道共振", 6]]}
+{"id": 904, "predicted_label": "REFUTES", "predicted_evidence": [["杜鵑科", 0], ["咬鵑科", 0], ["胡瓜魚科", 0]]}
+{"id": 5060, "predicted_label": "REFUTES", "predicted_evidence": [["木衛三十九", 7], ["木衛三十九", 0]]}
+{"id": 7562, "predicted_label": "SUPPORTS", "predicted_evidence": [["飄然臺", 2], ["黃初平", 0], ["飄然臺", 1], ["黃初平", 1], ["香港藝術館", 49]]}
+{"id": 6693, "predicted_label": "SUPPORTS", "predicted_evidence": [["諾貝爾獎", 0], ["諾貝爾獎", 1]]}
+{"id": 2596, "predicted_label": "SUPPORTS", "predicted_evidence": [["三國", 37], ["三國", 36], ["三國", 10], ["三國", 30], ["亂世", 13]]}
+{"id": 359, "predicted_label": "SUPPORTS", "predicted_evidence": [["中國人民解放軍武漢軍區", 0], ["大軍區", 1], ["大軍區", 0], ["中國人民解放軍武漢軍區", 4], ["中國人民解放軍武漢軍區", 1]]}
+{"id": 8373, "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": null}
+{"id": 8522, "predicted_label": "SUPPORTS", "predicted_evidence": [["古賽爾戰役", 0], ["什葉派", 0], ["古賽爾戰役", 1]]}
+{"id": 8058, "predicted_label": "REFUTES", "predicted_evidence": [["伊斯蘭曆", 25], ["伊斯蘭曆", 26], ["基督紀年", 0], ["基督紀年", 1], ["基督紀年", 2]]}
+{"id": 8773, "predicted_label": "SUPPORTS", "predicted_evidence": [["海濱站_(聖彼得堡地鐵)", 9], ["海濱站_(聖彼得堡地鐵)", 3], ["海濱站_(聖彼得堡地鐵)", 0], ["海濱站_(聖彼得堡地鐵)", 4], ["涅瓦-瓦西里島線", 0]]}
+{"id": 7638, "predicted_label": "SUPPORTS", "predicted_evidence": [["三年坂火之夢", 2], ["三年坂火之夢", 1], ["三年坂火之夢", 0]]}
+{"id": 6425, "predicted_label": "SUPPORTS", "predicted_evidence": [["袁隆平", 5], ["袁隆平", 4], ["袁隆平", 0], ["袁隆平", 3]]}
+{"id": 6085, "predicted_label": "SUPPORTS", "predicted_evidence": [["界_(生物)", 6], ["界_(生物)", 7]]}
+{"id": 2734, "predicted_label": "SUPPORTS", "predicted_evidence": [["蓋茲堡演說", 0], ["蓋茲堡演說", 3]]}
+{"id": 1746, "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": null}
+{"id": 5927, "predicted_label": "REFUTES", "predicted_evidence": [["最短路問題", 12], ["最短路問題", 22], ["最短路問題", 26], ["最短路問題", 18], ["最短路問題", 0]]}
+{"id": 5130, "predicted_label": "REFUTES", "predicted_evidence": [["古蘭經", 5], ["古蘭經", 1], ["古蘭經", 0], ["伊斯蘭教", 1], ["伊斯蘭教", 2]]}
+{"id": 3995, "predicted_label": "REFUTES", "predicted_evidence": [["路易十四", 10], ["路易十四", 9], ["路易十四", 8], ["路易十四", 18]]}
+{"id": 7299, "predicted_label": "REFUTES", "predicted_evidence": [["威廉·莎士比亞", 5], ["威廉·莎士比亞", 6], ["威廉·莎士比亞", 0], ["威廉·莎士比亞", 19], ["威廉·莎士比亞", 14]]}
+{"id": 2559, "predicted_label": "SUPPORTS", "predicted_evidence": [["乙炔", 20], ["乙炔", 24], ["乙炔", 15], ["乙炔", 19], ["三氧化鉻", 1]]}
+{"id": 4373, "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": null}
+{"id": 6604, "predicted_label": "SUPPORTS", "predicted_evidence": [["喬治·卡特萊特·馬歇爾", 1], ["喬治·卡特萊特·馬歇爾", 3], ["喬治·卡特萊特·馬歇爾", 2], ["喬治·卡特萊特·馬歇爾", 4], ["喬治·卡特萊特·馬歇爾", 0]]}
+{"id": 715, "predicted_label": "REFUTES", "predicted_evidence": [["賽普勒斯", 3], ["獅", 0]]}
+{"id": 7034, "predicted_label": "REFUTES", "predicted_evidence": [["林鈺婷", 100], ["林鈺婷", 3], ["林鈺婷", 33], ["林鈺婷", 12], ["林鈺婷", 38]]}
+{"id": 6309, "predicted_label": "SUPPORTS", "predicted_evidence": [["胡德號戰列巡洋艦", 1], ["胡德號戰列巡洋艦", 0], ["胡德號戰列巡洋艦", 2], ["胡德號戰列巡洋艦", 3], ["胡德號戰列巡洋艦", 6]]}
+{"id": 6413, "predicted_label": "SUPPORTS", "predicted_evidence": [["瑤池", 3], ["瑤池", 0], ["瑤池", 7], ["瑤池", 4], ["瑤池", 1]]}
+{"id": 4637, "predicted_label": "SUPPORTS", "predicted_evidence": [["占星術", 4], ["占卜", 0], ["占星術", 3], ["占星術", 6], ["占星術", 20]]}
+{"id": 5443, "predicted_label": "REFUTES", "predicted_evidence": [["通用電氣", 45], ["通用電氣", 22]]}
+{"id": 3804, "predicted_label": "SUPPORTS", "predicted_evidence": [["昭武九姓", 2], ["昭武九姓", 0], ["昭武九姓", 13], ["昭武九姓", 1], ["昭武九姓", 5]]}
+{"id": 6027, "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": null}
+{"id": 1795, "predicted_label": "REFUTES", "predicted_evidence": [["韓國總統", 72], ["韓國總統", 71], ["韓國總統", 73], ["韓國總統", 70], ["韓國總統", 67]]}
+{"id": 2167, "predicted_label": "REFUTES", "predicted_evidence": [["抄襲", 10], ["抄襲", 0], ["抄襲", 3], ["抄襲", 5], ["抄襲", 4]]}
+{"id": 4362, "predicted_label": "SUPPORTS", "predicted_evidence": [["德川家康", 16], ["德川家康", 23], ["德川家康", 14], ["德川家康", 0]]}
+{"id": 3088, "predicted_label": "SUPPORTS", "predicted_evidence": [["休斯敦火箭", 42], ["休斯敦", 0], ["休斯敦火箭", 43], ["休斯敦火箭", 16], ["休斯敦火箭", 28]]}
+{"id": 4916, "predicted_label": "SUPPORTS", "predicted_evidence": [["達悟族", 12], ["達悟族", 8], ["達悟族", 0]]}
+{"id": 1090, "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": null}
+{"id": 6721, "predicted_label": "SUPPORTS", "predicted_evidence": [["保羅·狄拉克", 6], ["保羅·狄拉克", 4], ["保羅·狄拉克", 0], ["保羅·狄拉克", 7], ["保羅·狄拉克", 11]]}
+{"id": 998, "predicted_label": "REFUTES", "predicted_evidence": [["馬丁·路德·金", 5], ["馬丁·路德·金", 0], ["馬丁·路德·金", 4], ["聯合抵制蒙哥馬利公車運動", 1], ["馬丁·路德·金", 6]]}
+{"id": 7194, "predicted_label": "REFUTES", "predicted_evidence": [["列夫·托洛茨基", 4], ["列夫·托洛茨基", 5], ["列夫·托洛茨基", 0], ["列夫·托洛茨基", 3], ["列夫·托洛茨基", 6]]}
+{"id": 111, "predicted_label": "SUPPORTS", "predicted_evidence": [["非營利組織", 0], ["非營利組織", 4], ["非營利組織", 7]]}
+{"id": 100, "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": null}
+{"id": 3662, "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": null}
+{"id": 6997, "predicted_label": "SUPPORTS", "predicted_evidence": [["汽車理論", 0], ["汽車理論", 1]]}
+{"id": 8724, "predicted_label": "SUPPORTS", "predicted_evidence": [["鍾凱瑩", 7], ["鍾凱瑩", 8], ["蘿拉_(模特兒)", 0], ["鍾凱瑩", 0], ["鍾凱瑩", 3]]}
+{"id": 8182, "predicted_label": "SUPPORTS", "predicted_evidence": [["李祖德", 0]]}
+{"id": 4199, "predicted_label": "SUPPORTS", "predicted_evidence": [["煎餅餜子", 0], ["煎餅餜子", 5], ["小喫", 0], ["煎餅餜子", 8]]}
+{"id": 1899, "predicted_label": "SUPPORTS", "predicted_evidence": [["香港都會大學李嘉誠專業進修學院", 39], ["社區學院", 0], ["香港都會大學李嘉誠專業進修學院", 38], ["香港都會大學李嘉誠專業進修學院", 43], ["香港都會大學李嘉誠專業進修學院", 2]]}
+{"id": 6444, "predicted_label": "SUPPORTS", "predicted_evidence": [["周星馳", 0]]}
+{"id": 2339, "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": null}
+{"id": 7824, "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": null}
+{"id": 4240, "predicted_label": "SUPPORTS", "predicted_evidence": [["上座部佛教", 8], ["根本分裂", 0], ["大衆部", 3], ["上座部", 0], ["大衆部", 0]]}
+{"id": 4085, "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": null}
+{"id": 919, "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": null}
+{"id": 1295, "predicted_label": "SUPPORTS", "predicted_evidence": [["穀梁傳", 0], ["穀梁傳", 17], ["穀梁傳", 12]]}
+{"id": 6445, "predicted_label": "SUPPORTS", "predicted_evidence": [["周星馳", 0], ["喜劇之王_(1999年電影)", 0]]}
+{"id": 7954, "predicted_label": "SUPPORTS", "predicted_evidence": [["實藤惠秀", 0], ["實藤惠秀", 1], ["實藤惠秀", 2]]}
+{"id": 4685, "predicted_label": "REFUTES", "predicted_evidence": [["奧斯陸", 120], ["奧斯陸", 133], ["奧斯陸", 148], ["奧斯陸", 2], ["奧斯陸", 135]]}
+{"id": 3319, "predicted_label": "SUPPORTS", "predicted_evidence": [["喬治三世", 12], ["紫質症", 0], ["喬治三世", 11], ["喬治三世", 0]]}
+{"id": 5364, "predicted_label": "SUPPORTS", "predicted_evidence": [["天衛三", 11], ["天衛三", 8]]}
+{"id": 6716, "predicted_label": "SUPPORTS", "predicted_evidence": [["銀", 1], ["銀", 7], ["投資型硬幣", 0], ["投資型硬幣", 2], ["投資型硬幣", 1]]}
+{"id": 3349, "predicted_label": "SUPPORTS", "predicted_evidence": [["燕山大學", 38], ["燕山大學", 40], ["燕山大學", 62], ["燕山大學", 16], ["燕山大學", 61]]}
+{"id": 4666, "predicted_label": "REFUTES", "predicted_evidence": [["白話字", 12], ["白話字", 6]]}
+{"id": 5892, "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": null}
+{"id": 842, "predicted_label": "SUPPORTS", "predicted_evidence": [["園林設計", 6], ["園林設計", 0], ["園林設計", 5], ["園林設計", 4]]}
+{"id": 6053, "predicted_label": "REFUTES", "predicted_evidence": [["三國", 3], ["三國", 6], ["三國", 14], ["三國", 7], ["三國", 10]]}
+{"id": 2571, "predicted_label": "SUPPORTS", "predicted_evidence": [["日本神話", 8], ["日本神話", 2], ["日本神話", 4], ["日本神話", 1]]}
+{"id": 437, "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": null}
+{"id": 5926, "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": null}
+{"id": 7369, "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": null}
+{"id": 4871, "predicted_label": "SUPPORTS", "predicted_evidence": [["家牛", 11], ["家牛", 12], ["家牛", 0]]}
+{"id": 2471, "predicted_label": "REFUTES", "predicted_evidence": [["氣象衛星", 0], ["衛星_(消歧義)", 6], ["氣象衛星", 3], ["衛星", 1]]}
+{"id": 6125, "predicted_label": "SUPPORTS", "predicted_evidence": [["西亞", 4], ["西亞", 1], ["西亞", 0]]}
+{"id": 8401, "predicted_label": "SUPPORTS", "predicted_evidence": [["瓦西里·康定斯基", 7], ["瓦西里·康定斯基", 3], ["瓦西里·康定斯基", 6], ["瓦西里·康定斯基", 0], ["瓦西里·康定斯基", 5]]}
+{"id": 3564, "predicted_label": "SUPPORTS", "predicted_evidence": [["維克多·雨果", 0], ["維克多·雨果", 8], ["維克多·雨果", 5], ["維克多·雨果", 1], ["維克多·雨果", 2]]}
+{"id": 5187, "predicted_label": "SUPPORTS", "predicted_evidence": [["馬丁·路德·金", 17], ["馬丁·路德·金", 18], ["馬丁·路德·金", 0], ["馬丁·路德·金", 19], ["馬丁·路德·金", 10]]}
+{"id": 6270, "predicted_label": "SUPPORTS", "predicted_evidence": [["賽普勒斯", 6], ["賽普勒斯", 3], ["賽普勒斯", 4]]}
+{"id": 751, "predicted_label": "REFUTES", "predicted_evidence": [["昭武九姓", 0], ["回族", 12], ["昭武九姓", 15], ["昭武九姓", 19], ["昭武九姓", 13]]}
+{"id": 4716, "predicted_label": "SUPPORTS", "predicted_evidence": [["古典芭蕾", 15], ["古典芭蕾", 14], ["古典芭蕾", 16], ["古典芭蕾", 17], ["古典芭蕾", 20]]}
+{"id": 841, "predicted_label": "SUPPORTS", "predicted_evidence": [["園林設計", 6], ["園林設計", 0], ["園林設計", 5]]}
+{"id": 1975, "predicted_label": "REFUTES", "predicted_evidence": [["管致中", 2], ["管致中", 0], ["管致中", 10], ["管致中", 15], ["管致中", 17]]}
+{"id": 2864, "predicted_label": "REFUTES", "predicted_evidence": [["計算機科學", 0]]}
+{"id": 5769, "predicted_label": "SUPPORTS", "predicted_evidence": [["馬克思主義政治經濟學", 0]]}
+{"id": 4090, "predicted_label": "SUPPORTS", "predicted_evidence": [["世僕", 0], ["世僕", 6], ["世僕", 11]]}
+{"id": 8961, "predicted_label": "REFUTES", "predicted_evidence": [["曹鼎_(東漢)", 1], ["曹真", 2], ["曹叡", 5], ["曹鼎_(東漢)", 0], ["曹叡", 10]]}
+{"id": 8328, "predicted_label": "REFUTES", "predicted_evidence": [["汾河", 8], ["汾河", 0], ["汾河", 6], ["汾河水庫", 3], ["汾河", 9]]}
+{"id": 4448, "predicted_label": "REFUTES", "predicted_evidence": [["鐒", 13]]}
+{"id": 5148, "predicted_label": "SUPPORTS", "predicted_evidence": [["古羅馬", 5], ["古羅馬", 4]]}
+{"id": 4727, "predicted_label": "SUPPORTS", "predicted_evidence": [["張五常", 7], ["張五常", 8], ["張五常", 9], ["張五常", 0], ["劉冠軍", 1]]}
+{"id": 7387, "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": null}
+{"id": 3660, "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": null}
+{"id": 8424, "predicted_label": "REFUTES", "predicted_evidence": [["白鵜鶘", 1], ["白鵜鶘", 0], ["白鵜鶘", 5]]}
+{"id": 4444, "predicted_label": "REFUTES", "predicted_evidence": [["鐒", 13], ["鐒", 12]]}
+{"id": 1178, "predicted_label": "REFUTES", "predicted_evidence": [["普路託", 0], ["普路託", 5], ["普路託", 15], ["普路託", 6], ["普路託", 1]]}
+{"id": 6837, "predicted_label": "SUPPORTS", "predicted_evidence": [["曲樞", 8], ["曲樞", 0], ["曲樞", 5], ["曲樞", 12], ["曲樞", 9]]}
+{"id": 7660, "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": null}
+{"id": 2911, "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": null}
+{"id": 6454, "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": null}
+{"id": 5419, "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": null}
+{"id": 986, "predicted_label": "REFUTES", "predicted_evidence": [["女性", 1], ["人類_(中土大陸)", 5], ["女性", 0], ["女性", 11]]}
+{"id": 2282, "predicted_label": "SUPPORTS", "predicted_evidence": [["新臺幣", 4]]}
+{"id": 1974, "predicted_label": "SUPPORTS", "predicted_evidence": [["德尼·狄德羅", 1], ["百科全書派", 4], ["德尼·狄德羅", 0], ["百科全書派", 0], ["百科全書派", 5]]}
+{"id": 5071, "predicted_label": "REFUTES", "predicted_evidence": [["京九鐵路", 6], ["京九鐵路", 7], ["京九鐵路", 15]]}
+{"id": 5699, "predicted_label": "REFUTES", "predicted_evidence": [["希臘神話", 14], ["希臘神話", 16], ["希臘神話", 2]]}
+{"id": 3245, "predicted_label": "REFUTES", "predicted_evidence": [["楊虎城", 6], ["楊虎城", 4], ["楊虎城", 5], ["楊虎城", 7], ["西安事變", 0]]}
+{"id": 1023, "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": null}
+{"id": 6720, "predicted_label": "REFUTES", "predicted_evidence": [["銀", 7], ["銀", 1], ["投資型硬幣", 0], ["銀", 13], ["投資型硬幣", 1]]}
+{"id": 7283, "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": null}
+{"id": 2905, "predicted_label": "REFUTES", "predicted_evidence": [["希爾伯特空間", 2], ["內積空間", 0], ["希爾伯特空間", 7], ["內積空間", 10], ["內積空間", 3]]}
+{"id": 834, "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": null}
+{"id": 8289, "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": null}
+{"id": 2995, "predicted_label": "REFUTES", "predicted_evidence": [["木衛三", 20], ["木衛三", 19], ["木衛三", 0]]}
+{"id": 809, "predicted_label": "REFUTES", "predicted_evidence": [["豫劇", 1], ["豫劇", 7], ["豫劇", 0], ["豫劇", 8], ["豫劇", 3]]}
+{"id": 3174, "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": null}
+{"id": 409, "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": null}
+{"id": 500, "predicted_label": "SUPPORTS", "predicted_evidence": [["鐒", 6], ["歐內斯特·勞倫斯", 4], ["加利福尼亞大學柏克萊分校", 61], ["加利福尼亞大學柏克萊分校", 60], ["加利福尼亞大學柏克萊分校", 50]]}
+{"id": 6067, "predicted_label": "REFUTES", "predicted_evidence": [["均勻碼理事會", 6], ["均勻碼理事會", 0], ["均勻碼理事會", 5], ["均勻碼理事會", 1], ["均勻碼理事會", 9]]}
+{"id": 2153, "predicted_label": "REFUTES", "predicted_evidence": [["馬克士威方程組", 0], ["馬克士威方程組", 2], ["馬克士威方程組", 3], ["馬克士威方程組", 1], ["馬克士威方程組", 19]]}
+{"id": 6358, "predicted_label": "SUPPORTS", "predicted_evidence": [["奧克蘭市", 78], ["奧克蘭市", 2], ["奧克蘭市", 16]]}
+{"id": 4022, "predicted_label": "SUPPORTS", "predicted_evidence": [["釀造醋", 0], ["釀造醋", 1], ["釀造醋", 7]]}
+{"id": 3803, "predicted_label": "SUPPORTS", "predicted_evidence": [["昭武九姓", 2], ["昭武九姓", 0], ["昭武九姓", 1], ["昭武九姓", 8], ["昭武九姓", 13]]}
+{"id": 5266, "predicted_label": "REFUTES", "predicted_evidence": [["基隆市", 4], ["基隆市", 5], ["基隆市", 0], ["基隆市", 7]]}
+{"id": 8248, "predicted_label": "SUPPORTS", "predicted_evidence": [["麗臺科技", 1], ["麗臺科技", 4], ["麗臺科技", 20], ["麗臺科技", 0], ["麗臺科技", 6]]}
+{"id": 2415, "predicted_label": "REFUTES", "predicted_evidence": [["明憲宗", 1], ["明憲宗", 4], ["明憲宗", 0]]}
+{"id": 8554, "predicted_label": "REFUTES", "predicted_evidence": [["謝磷", 6], ["謝磷", 7], ["謝磷", 1], ["謝磷", 0], ["謝磷", 5]]}
+{"id": 5809, "predicted_label": "SUPPORTS", "predicted_evidence": [["馬克思主義政治經濟學", 0]]}
+{"id": 708, "predicted_label": "SUPPORTS", "predicted_evidence": [["香港科技大學", 0], ["香港科技大學", 4], ["清水灣半島_(住宅)", 10], ["清水灣半島", 0], ["清水灣半島_(住宅)", 12]]}
+{"id": 3624, "predicted_label": "REFUTES", "predicted_evidence": [["漢光武帝", 14], ["漢光武帝", 15], ["漢光武帝", 7], ["漢光武帝", 0], ["漢光武帝", 6]]}
+{"id": 5474, "predicted_label": "SUPPORTS", "predicted_evidence": [["GCC", 57], ["GCC", 58], ["GCC", 46], ["Microsoft_Visual_C++", 16]]}
+{"id": 8002, "predicted_label": "SUPPORTS", "predicted_evidence": [["臺中市私立曉明女子高級中學", 1], ["臺中市私立曉明女子高級中學", 4], ["臺中市私立曉明女子高級中學", 0], ["私立", 3], ["私立", 5]]}
+{"id": 6051, "predicted_label": "REFUTES", "predicted_evidence": [["三國", 6], ["東漢", 13], ["三國", 3], ["三國", 7], ["東漢", 7]]}
+{"id": 3466, "predicted_label": "SUPPORTS", "predicted_evidence": [["蛋白質組", 0]]}
+{"id": 7727, "predicted_label": "SUPPORTS", "predicted_evidence": [["釣魚臺列嶼", 1], ["釣魚臺列嶼", 0]]}
+{"id": 5481, "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": null}
+{"id": 7825, "predicted_label": "REFUTES", "predicted_evidence": [["董至成", 2], ["董至成", 6], ["董至成", 5]]}
+{"id": 2018, "predicted_label": "REFUTES", "predicted_evidence": [["荷馬史詩", 0], ["荷馬史詩", 11], ["荷馬史詩", 10], ["荷馬史詩", 8], ["荷馬史詩", 2]]}
+{"id": 8341, "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": null}
+{"id": 6498, "predicted_label": "REFUTES", "predicted_evidence": [["世界最佳宜居城市", 1], ["Cross_My_Heart_(第八奇蹟)", 2]]}
+{"id": 3842, "predicted_label": "REFUTES", "predicted_evidence": [["東晉", 1], ["東晉", 2]]}
+{"id": 6001, "predicted_label": "SUPPORTS", "predicted_evidence": [["Gmail", 23], ["Gmail", 22]]}
+{"id": 6776, "predicted_label": "SUPPORTS", "predicted_evidence": [["梁武帝", 11], ["梁武帝", 0], ["梁武帝", 2], ["梁武帝", 5]]}
+{"id": 8049, "predicted_label": "REFUTES", "predicted_evidence": [["科隆", 15], ["世界青年日", 0], ["科隆", 14], ["科隆_(巴拿馬)", 0], ["科隆", 0]]}
+{"id": 3100, "predicted_label": "REFUTES", "predicted_evidence": [["拜耳命名法", 0], ["拜耳命名法", 5], ["屬格", 5], ["拜耳命名法", 9], ["拜耳命名法", 10]]}
+{"id": 2511, "predicted_label": "SUPPORTS", "predicted_evidence": [["電子陶瓷", 1], ["介電陶瓷", 0], ["電子陶瓷", 0], ["電子陶瓷", 5]]}
+{"id": 3758, "predicted_label": "REFUTES", "predicted_evidence": [["燧人氏", 0], ["燧人氏", 1]]}
+{"id": 4622, "predicted_label": "REFUTES", "predicted_evidence": [["死者能舞", 11], ["死者能舞", 18], ["死者能舞", 3], ["死者能舞", 8], ["死者能舞", 27]]}
+{"id": 2391, "predicted_label": "REFUTES", "predicted_evidence": [["鍀", 18], ["鍀", 17], ["鍀", 2], ["鍀", 14], ["鍀", 16]]}
+{"id": 4573, "predicted_label": "SUPPORTS", "predicted_evidence": [["哈比人歷險記", 17], ["哈比人歷險記", 0], ["哈比人歷險記", 5]]}
+{"id": 3398, "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": null}
+{"id": 3497, "predicted_label": "SUPPORTS", "predicted_evidence": [["古希臘悲劇", 2], ["古希臘悲劇", 1], ["古希臘悲劇", 0], ["古希臘悲劇", 4]]}
+{"id": 8869, "predicted_label": "SUPPORTS", "predicted_evidence": [["臺灣織布", 0], ["臺灣織布", 2], ["臺灣織布", 1]]}
+{"id": 4693, "predicted_label": "SUPPORTS", "predicted_evidence": [["軟件開發", 3], ["軟件開發", 1], ["軟件開發", 2]]}
+{"id": 6599, "predicted_label": "SUPPORTS", "predicted_evidence": [["朱庇特", 0], ["朱庇特_(消歧義)", 4]]}
+{"id": 4768, "predicted_label": "REFUTES", "predicted_evidence": [["劉若英", 1], ["劉若英", 2], ["劉若英", 3], ["劉若英", 4], ["劉若英", 5]]}
+{"id": 7101, "predicted_label": "REFUTES", "predicted_evidence": [["護照", 0], ["護照", 1]]}
+{"id": 1455, "predicted_label": "REFUTES", "predicted_evidence": [["大衆汽車", 37], ["大衆汽車", 32], ["大衆集團", 0], ["大衆汽車", 16], ["大衆汽車", 15]]}
+{"id": 2032, "predicted_label": "REFUTES", "predicted_evidence": [["彼得·保羅·魯本斯", 27], ["彼得·保羅·魯本斯", 25], ["彼得·保羅·魯本斯", 34], ["伊利亞·葉菲莫維奇·列賓", 0], ["彼得·保羅·魯本斯", 21]]}
+{"id": 1364, "predicted_label": "REFUTES", "predicted_evidence": [["維納斯", 11], ["紀念日", 3], ["羅馬", 181]]}
+{"id": 5771, "predicted_label": "SUPPORTS", "predicted_evidence": [["資本論", 0]]}
+{"id": 8687, "predicted_label": "REFUTES", "predicted_evidence": [["納尼氏囊鰓鯰", 0], ["光滑平鮋", 0]]}
+{"id": 4724, "predicted_label": "SUPPORTS", "predicted_evidence": [["張五常", 8], ["張五常", 9], ["張五常", 0], ["張五常", 3], ["張五常", 4]]}
+{"id": 8409, "predicted_label": "REFUTES", "predicted_evidence": [["臺灣大學卡通漫畫研究社", 0], ["臺灣大學卡通漫畫研究社", 1]]}
+{"id": 2789, "predicted_label": "SUPPORTS", "predicted_evidence": [["阿姆斯特丹", 163], ["阿姆斯特丹", 164], ["阿姆斯特丹", 165], ["阿姆斯特丹證券交易所", 3], ["Netflix", 16]]}
+{"id": 8222, "predicted_label": "REFUTES", "predicted_evidence": [["李祖德", 0], ["北漂", 11], ["北漂", 13]]}
+{"id": 1380, "predicted_label": "REFUTES", "predicted_evidence": [["鳳凰", 0], ["丹鳥", 2]]}
+{"id": 4936, "predicted_label": "REFUTES", "predicted_evidence": [["鹼石灰", 3], ["氫氧化鈣", 0]]}
+{"id": 2062, "predicted_label": "SUPPORTS", "predicted_evidence": [["第二次鴉片戰爭", 4], ["天津條約", 0], ["第二次鴉片戰爭", 0], ["第二次鴉片戰爭", 5], ["第二次鴉片戰爭", 6]]}
+{"id": 2323, "predicted_label": "REFUTES", "predicted_evidence": [["鯡形目", 1], ["鯡形目", 0], ["輻鰭魚綱", 0]]}
+{"id": 6654, "predicted_label": "REFUTES", "predicted_evidence": [["殖民地", 5], ["不恰當的影響力", 1]]}
+{"id": 502, "predicted_label": "SUPPORTS", "predicted_evidence": [["鐒", 6]]}
+{"id": 1426, "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": null}
+{"id": 2365, "predicted_label": "REFUTES", "predicted_evidence": [["巴勃羅·畢卡索", 0], ["巴勃羅·畢卡索", 1], ["巴勃羅·畢卡索", 2]]}
+{"id": 3038, "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": null}
+{"id": 1181, "predicted_label": "REFUTES", "predicted_evidence": [["歐洲民族", 2], ["歐洲民族", 1], ["歐洲民族", 0], ["歐洲民族", 5], ["歐洲民族", 101]]}
+{"id": 4944, "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": null}
+{"id": 1219, "predicted_label": "REFUTES", "predicted_evidence": [["歐洲民族", 2], ["歐洲民族", 1], ["歐洲民族", 0], ["歐洲民族", 5], ["歐洲民族", 101]]}
+{"id": 4340, "predicted_label": "REFUTES", "predicted_evidence": [["郵政編碼", 2], ["郵政編碼", 5]]}
+{"id": 3815, "predicted_label": "REFUTES", "predicted_evidence": [["客輪", 0], ["客輪", 1], ["客輪", 2], ["遠洋定期船", 0], ["遠洋定期船", 4]]}
+{"id": 7868, "predicted_label": "SUPPORTS", "predicted_evidence": [["馬純岱", 1], ["馬純岱", 2], ["馬純岱", 0]]}
+{"id": 7357, "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": null}
+{"id": 7993, "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": null}
+{"id": 3086, "predicted_label": "SUPPORTS", "predicted_evidence": [["竹內瑪莉亞", 0], ["竹內瑪莉亞", 2], ["竹內瑪莉亞", 1], ["山下達郎", 5]]}
+{"id": 267, "predicted_label": "SUPPORTS", "predicted_evidence": [["查理·卓別林", 9], ["查理·卓別林", 8], ["查理·卓別林", 5], ["查理·卓別林", 0], ["查理·卓別林", 6]]}
+{"id": 6018, "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": null}
+{"id": 3211, "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": null}
+{"id": 1641, "predicted_label": "SUPPORTS", "predicted_evidence": [["愛丁堡大學", 57], ["愛丁堡大學", 58], ["愛丁堡大學", 52], ["愛丁堡大學", 66], ["愛丁堡大學", 70]]}
+{"id": 5484, "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": null}
+{"id": 1066, "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": null}
+{"id": 4067, "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": null}
+{"id": 8586, "predicted_label": "SUPPORTS", "predicted_evidence": [["歐陸舞曲", 1], ["歐陸舞曲", 0], ["歐陸舞曲", 2], ["歐陸舞曲", 7]]}
+{"id": 3601, "predicted_label": "SUPPORTS", "predicted_evidence": [["臺灣團結聯盟", 87], ["劉一德", 0], ["臺灣團結聯盟", 88], ["臺灣團結聯盟", 78], ["臺灣團結聯盟", 17]]}
+{"id": 755, "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": null}
+{"id": 7614, "predicted_label": "SUPPORTS", "predicted_evidence": [["香港公營醫療", 3], ["香港公營醫療", 0], ["香港公營醫療", 20], ["醫院", 6]]}
+{"id": 4013, "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": null}
+{"id": 5734, "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": null}
+{"id": 1608, "predicted_label": "REFUTES", "predicted_evidence": [["冰淇淋", 0]]}
+{"id": 6258, "predicted_label": "SUPPORTS", "predicted_evidence": [["歐洲民族", 0], ["歐洲民族", 5], ["歐洲民族", 167], ["歐洲民族", 194], ["歐洲民族", 175]]}
+{"id": 7370, "predicted_label": "SUPPORTS", "predicted_evidence": [["普利策獎", 29], ["普利策獎", 28]]}
+{"id": 168, "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": null}
+{"id": 6843, "predicted_label": "REFUTES", "predicted_evidence": [["獎盃", 0], ["獎盃", 3]]}
+{"id": 8549, "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": null}
+{"id": 2198, "predicted_label": "SUPPORTS", "predicted_evidence": [["淄博市", 5], ["淄博市", 2], ["淄博市", 0]]}
+{"id": 8538, "predicted_label": "REFUTES", "predicted_evidence": [["伊萬·巴甫洛夫", 1], ["古典制約", 0], ["伊萬·巴甫洛夫", 0], ["古典制約", 1]]}
+{"id": 5990, "predicted_label": "SUPPORTS", "predicted_evidence": [["隱性知識", 4]]}
+{"id": 2390, "predicted_label": "REFUTES", "predicted_evidence": [["鍀", 18], ["鍀", 17], ["鍀", 2], ["鍀", 14]]}
+{"id": 8573, "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": null}
+{"id": 729, "predicted_label": "REFUTES", "predicted_evidence": [["銀川市", 2], ["銀川市", 0], ["銀川市", 5]]}
+{"id": 343, "predicted_label": "SUPPORTS", "predicted_evidence": [["籃球", 1], ["珍珠球", 2], ["珍珠球", 4], ["籃球_(球)", 10], ["珍珠球", 3]]}
+{"id": 4121, "predicted_label": "REFUTES", "predicted_evidence": [["弗朗西斯科·佛朗哥", 4], ["弗朗西斯科·佛朗哥", 6], ["弗朗西斯科·佛朗哥", 12], ["弗朗西斯科·佛朗哥", 0], ["弗朗西斯科·佛朗哥", 3]]}
+{"id": 4370, "predicted_label": "REFUTES", "predicted_evidence": [["泰坦尼克號", 5], ["泰坦尼克號", 0], ["泰坦尼克號", 9]]}
+{"id": 604, "predicted_label": "SUPPORTS", "predicted_evidence": [["計算機協會", 0], ["計算機協會", 16]]}
+{"id": 8478, "predicted_label": "REFUTES", "predicted_evidence": [["臺北賓館", 32], ["臺北賓館", 34], ["臺北賓館", 25], ["臺北賓館", 33], ["臺北賓館", 40]]}
+{"id": 4658, "predicted_label": "SUPPORTS", "predicted_evidence": [["汞", 0], ["汞", 14], ["汞", 12]]}
+{"id": 7513, "predicted_label": "SUPPORTS", "predicted_evidence": [["國際LGBTI聯合會", 2], ["國際LGBTI聯合會", 0], ["國際LGBTI聯合會", 1]]}
+{"id": 5500, "predicted_label": "SUPPORTS", "predicted_evidence": [["賽普勒斯", 3]]}
+{"id": 2730, "predicted_label": "SUPPORTS", "predicted_evidence": [["戊戌變法", 1], ["康有爲", 0], ["康有爲", 1], ["戊戌變法", 2], ["戊戌變法", 0]]}
+{"id": 6382, "predicted_label": "REFUTES", "predicted_evidence": [["大豆", 22], ["大豆", 0], ["大豆", 25], ["消化作用", 6], ["大豆", 16]]}
+{"id": 1140, "predicted_label": "REFUTES", "predicted_evidence": [["吳天威", 9], ["吳天威", 11], ["吳天威", 0]]}
+{"id": 8217, "predicted_label": "REFUTES", "predicted_evidence": [["披頭四樂隊", 3], ["披頭四樂隊", 26], ["披頭四樂隊", 22], ["披頭四樂隊", 0], ["披頭四樂隊", 11]]}
+{"id": 1120, "predicted_label": "SUPPORTS", "predicted_evidence": [["MacOS", 58], ["操作系統使用份額", 5], ["操作系統使用份額", 2]]}
+{"id": 1057, "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": null}
+{"id": 523, "predicted_label": "SUPPORTS", "predicted_evidence": [["虛擬教研中心", 1], ["虛擬教研中心", 0]]}
+{"id": 132, "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": null}
+{"id": 389, "predicted_label": "REFUTES", "predicted_evidence": [["許世友", 3], ["許世友", 5], ["許世友", 6], ["許世友", 7], ["許世友", 4]]}
+{"id": 3480, "predicted_label": "SUPPORTS", "predicted_evidence": [["輕機槍", 0], ["自動步槍", 4], ["自動步槍", 12]]}
+{"id": 6307, "predicted_label": "REFUTES", "predicted_evidence": [["弗朗西斯·科波拉", 6], ["弗朗西斯·科波拉", 8], ["弗朗西斯·科波拉", 13], ["弗朗西斯·科波拉", 12], ["弗朗西斯·科波拉", 1]]}
+{"id": 5814, "predicted_label": "REFUTES", "predicted_evidence": [["馬克思主義政治經濟學", 0]]}
+{"id": 7929, "predicted_label": "REFUTES", "predicted_evidence": [["貝雷特", 8], ["貝雷特", 7], ["貝雷特", 11], ["貝雷特", 2], ["貝雷特", 14]]}
+{"id": 4992, "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": null}
+{"id": 305, "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": null}
+{"id": 5830, "predicted_label": "SUPPORTS", "predicted_evidence": [["馬克思主義政治經濟學", 0]]}
+{"id": 7088, "predicted_label": "REFUTES", "predicted_evidence": [["臺東飛行場", 0], ["必麒麟運作大廈", 0]]}
+{"id": 1144, "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": null}
+{"id": 8675, "predicted_label": "REFUTES", "predicted_evidence": [["臺北州立臺北第一中學校", 0], ["臺北市立建國高級中學", 31], ["臺北市立建國高級中學", 18], ["臺北市立建國高級中學", 30], ["臺北市立建國高級中學", 29]]}
+{"id": 1446, "predicted_label": "REFUTES", "predicted_evidence": [["室女座", 1], ["視星等", 21], ["視星等", 22], ["視星等", 3], ["視星等", 12]]}
+{"id": 4763, "predicted_label": "SUPPORTS", "predicted_evidence": [["巴哈歐拉", 9], ["巴哈歐拉", 0], ["巴哈歐拉", 3]]}
+{"id": 2599, "predicted_label": "SUPPORTS", "predicted_evidence": [["麻省理工學院", 58], ["麻省理工學院", 57], ["麻省理工學院", 63], ["麻省理工學院", 0], ["麻省理工學院", 2]]}
+{"id": 993, "predicted_label": "SUPPORTS", "predicted_evidence": [["伍迪·艾倫", 64], ["伍迪·艾倫", 49], ["伍迪·艾倫", 65], ["伍迪·艾倫", 74], ["奧黛莉·朵杜", 3]]}
+{"id": 3653, "predicted_label": "SUPPORTS", "predicted_evidence": [["埃爾熱", 1], ["丁丁歷險記", 0]]}
+{"id": 2799, "predicted_label": "SUPPORTS", "predicted_evidence": [["京杭大運河", 1], ["京杭大運河", 0]]}
+{"id": 7520, "predicted_label": "REFUTES", "predicted_evidence": [["加拉哈德", 3], ["聖盃", 0], ["加拉哈德", 6], ["加拉哈德", 1]]}
+{"id": 4962, "predicted_label": "SUPPORTS", "predicted_evidence": [["奧利華·史東", 13], ["奧利華·史東", 6], ["奧利華·史東", 2], ["奧利華·史東", 10], ["奧利華·史東", 9]]}
+{"id": 5560, "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": null}
+{"id": 4882, "predicted_label": "SUPPORTS", "predicted_evidence": [["爬行動物", 23], ["變溫動物", 19], ["爬行動物", 25], ["爬行動物", 24], ["爬行動物", 31]]}
+{"id": 1009, "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": null}
+{"id": 4369, "predicted_label": "SUPPORTS", "predicted_evidence": [["泰坦尼克號", 5], ["哥本哈根", 105], ["泰坦尼克號", 0], ["哥本哈根", 2]]}
+{"id": 3880, "predicted_label": "SUPPORTS", "predicted_evidence": [["沈鈞儒", 0], ["沈鈞儒", 1], ["陳鼐_(清朝進士)", 1], ["陳鼐_(清朝進士)", 0]]}
+{"id": 1640, "predicted_label": "REFUTES", "predicted_evidence": [["愛丁堡大學", 57], ["愛丁堡大學", 58], ["愛丁堡大學", 52], ["愛丁堡大學", 66]]}
+{"id": 7647, "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": null}
+{"id": 7810, "predicted_label": "REFUTES", "predicted_evidence": [["德魯大學", 1], ["德魯大學", 0]]}
+{"id": 7880, "predicted_label": "SUPPORTS", "predicted_evidence": [["氰化鋰", 8], ["氰化鋰", 7], ["氰化鋰", 3], ["氰化鋰", 0]]}
+{"id": 3870, "predicted_label": "SUPPORTS", "predicted_evidence": [["愛丁堡大學", 54], ["愛丁堡大學", 53], ["愛丁堡大學", 52], ["愛丁堡大學", 2], ["愛丁堡大學", 4]]}
+{"id": 4102, "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": null}
+{"id": 6779, "predicted_label": "REFUTES", "predicted_evidence": [["中華民國國會在臺灣之全面選舉與罷免", 0], ["中華民國國會在臺灣之全面選舉與罷免", 5], ["萬年國會", 4], ["中華民國國會在臺灣之全面選舉與罷免", 8], ["中華民國國會在臺灣之全面選舉與罷免", 12]]}
+{"id": 1032, "predicted_label": "SUPPORTS", "predicted_evidence": [["希臘神話", 19], ["從搖籃到搖籃設計", 1], ["希臘神話", 1], ["希臘神話", 8], ["希臘神話", 20]]}
+{"id": 4231, "predicted_label": "SUPPORTS", "predicted_evidence": [["納米比亞", 24], ["納米比亞", 11], ["納米比亞", 4], ["納米比亞", 0], ["納米比亞", 28]]}
+{"id": 5377, "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": null}
+{"id": 2283, "predicted_label": "REFUTES", "predicted_evidence": [["新臺幣", 4]]}
+{"id": 1306, "predicted_label": "SUPPORTS", "predicted_evidence": [["穀梁傳", 0], ["穀梁傳", 17], ["穀梁傳", 12]]}
+{"id": 6197, "predicted_label": "SUPPORTS", "predicted_evidence": [["元智大學", 65], ["元智大學", 64], ["元智大學", 38], ["元智大學", 30], ["元智大學", 12]]}
+{"id": 7356, "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": null}
+{"id": 6659, "predicted_label": "SUPPORTS", "predicted_evidence": [["奧黛麗·赫本", 13], ["奧黛麗·赫本", 10], ["奧黛麗·赫本", 14], ["奧黛麗·赫本", 15], ["奧黛麗·赫本", 4]]}
+{"id": 5910, "predicted_label": "SUPPORTS", "predicted_evidence": [["馬丁·路德·金", 8], ["馬丁·路德·金", 15], ["馬丁·路德·金", 1], ["馬丁·路德·金", 0], ["馬丁·路德·金", 5]]}
+{"id": 4977, "predicted_label": "REFUTES", "predicted_evidence": [["荷馬史詩", 15], ["荷馬史詩", 0], ["荷馬史詩", 1], ["荷馬史詩", 10], ["荷馬史詩", 11]]}
+{"id": 1738, "predicted_label": "SUPPORTS", "predicted_evidence": [["中華人民共和國勞動人事部", 1], ["中華人民共和國勞動人事部", 0]]}
+{"id": 5045, "predicted_label": "SUPPORTS", "predicted_evidence": [["安德斯·海爾斯伯格", 0], ["安德斯·海爾斯伯格", 1]]}
+{"id": 4509, "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": null}
+{"id": 2248, "predicted_label": "SUPPORTS", "predicted_evidence": [["阿馬蒂亞·庫馬爾·森", 0], ["阿馬蒂亞·庫馬爾·森", 2], ["阿馬蒂亞·庫馬爾·森", 5], ["阿馬蒂亞·庫馬爾·森", 1], ["阿馬蒂亞·庫馬爾·森", 4]]}
+{"id": 6707, "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": null}
+{"id": 3470, "predicted_label": "SUPPORTS", "predicted_evidence": [["蛋白質組", 0], ["即時聚合酶鏈式反應", 0], ["即時聚合酶鏈式反應", 3], ["即時聚合酶鏈式反應", 7], ["即時聚合酶鏈式反應", 10]]}
+{"id": 1243, "predicted_label": "SUPPORTS", "predicted_evidence": [["歐洲民族", 2], ["歐洲民族", 1], ["歐洲民族", 0], ["歐洲民族", 136], ["歐洲民族", 219]]}
+{"id": 2681, "predicted_label": "SUPPORTS", "predicted_evidence": [["雉雞", 1]]}
+{"id": 2306, "predicted_label": "SUPPORTS", "predicted_evidence": [["2006年國際足協世界盃", 0], ["國際足協世界盃", 6], ["2006年國際足協世界盃", 3], ["2006年國際足協世界盃", 1]]}
+{"id": 7521, "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": null}
+{"id": 8713, "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": null}
+{"id": 2186, "predicted_label": "SUPPORTS", "predicted_evidence": [["人類演化", 6], ["人類演化", 0], ["人類演化", 7], ["人類演化", 13]]}
+{"id": 2274, "predicted_label": "SUPPORTS", "predicted_evidence": [["宗教哲學", 5], ["宗教哲學", 1]]}
+{"id": 146, "predicted_label": "SUPPORTS", "predicted_evidence": [["樂山大佛", 1], ["樂山大佛", 0], ["樂山大佛", 5], ["樂山大佛", 3], ["樂山大佛", 6]]}
+{"id": 2784, "predicted_label": "REFUTES", "predicted_evidence": [["光子", 7], ["光子", 12], ["光子", 13], ["光子", 11], ["阿爾伯特·愛因斯坦", 2]]}
+{"id": 480, "predicted_label": "SUPPORTS", "predicted_evidence": [["梁朝偉", 5], ["梁朝偉", 0], ["梁朝偉", 1]]}
+{"id": 6732, "predicted_label": "REFUTES", "predicted_evidence": [["桑比爾區", 4], ["桑比爾區", 3], ["桑比爾區", 5], ["桑比爾區", 0]]}
+{"id": 5420, "predicted_label": "SUPPORTS", "predicted_evidence": [["忒堤斯", 0], ["俄刻阿諾斯", 0], ["俄刻阿諾斯", 5], ["俄刻阿諾斯", 8], ["俄刻阿諾斯", 9]]}
+{"id": 8477, "predicted_label": "REFUTES", "predicted_evidence": [["臺北賓館", 32], ["臺北賓館", 33], ["臺北賓館", 34], ["臺北賓館", 25], ["臺北賓館", 5]]}
+{"id": 2083, "predicted_label": "SUPPORTS", "predicted_evidence": [["流產", 12], ["流產", 11], ["流產", 30], ["妊娠", 28], ["流產", 29]]}
+{"id": 5840, "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": null}
+{"id": 5975, "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": null}
+{"id": 7661, "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": null}
+{"id": 8421, "predicted_label": "SUPPORTS", "predicted_evidence": [["白鵜鶘", 1], ["白鵜鶘", 0], ["白鵜鶘", 5], ["白鵜鶘", 2]]}
+{"id": 8712, "predicted_label": "SUPPORTS", "predicted_evidence": [["國立臺灣民主紀念館", 0], ["國立臺灣民主紀念館", 14], ["國立臺灣民主紀念館", 3], ["國立臺灣民主紀念館", 6], ["國立臺灣民主紀念館", 10]]}
+{"id": 7296, "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": null}
+{"id": 3106, "predicted_label": "REFUTES", "predicted_evidence": [["印度洋", 0], ["印度洋", 4]]}
+{"id": 1166, "predicted_label": "SUPPORTS", "predicted_evidence": [["耶路撒冷", 19], ["耶路撒冷", 18], ["耶路撒冷", 3], ["人類發展指數", 0], ["耶路撒冷", 9]]}
+{"id": 1835, "predicted_label": "SUPPORTS", "predicted_evidence": [["XBRL", 0], ["XML", 0], ["XBRL", 6], ["置標語言", 0], ["置標語言", 2]]}
+{"id": 1071, "predicted_label": "REFUTES", "predicted_evidence": [["天衛五", 1], ["天衛五", 0]]}
+{"id": 4585, "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": null}
+{"id": 8507, "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": null}
+{"id": 9080, "predicted_label": "REFUTES", "predicted_evidence": [["兒玉利國", 2], ["兒玉利國", 0], ["政府首腦", 0], ["兒玉利國", 4], ["現任中華民國一、二級行政區行政首長列表", 0]]}
+{"id": 5217, "predicted_label": "REFUTES", "predicted_evidence": [["波士頓", 2]]}
+{"id": 6376, "predicted_label": "SUPPORTS", "predicted_evidence": [["梁國雄", 8], ["梁國雄", 0], ["梁國雄", 7], ["梁國雄", 13], ["長毛", 5]]}
+{"id": 3555, "predicted_label": "SUPPORTS", "predicted_evidence": [["流產", 1], ["流產", 0], ["流產", 17], ["流產", 2], ["流產", 11]]}
+{"id": 2582, "predicted_label": "SUPPORTS", "predicted_evidence": [["蔣雅文", 65], ["鄭希怡", 1], ["鄭希怡", 0], ["鄭希怡", 2]]}
+{"id": 5321, "predicted_label": "SUPPORTS", "predicted_evidence": [["洞裏薩湖", 0]]}
+{"id": 7161, "predicted_label": "REFUTES", "predicted_evidence": [["約瑟的神奇彩衣", 1], ["約瑟的神奇彩衣", 0], ["約瑟的神奇彩衣", 10], ["約瑟的神奇彩衣", 4]]}
+{"id": 7753, "predicted_label": "SUPPORTS", "predicted_evidence": [["本雅明·斯泰拉", 8], ["本雅明·斯泰拉", 5], ["本雅明·斯泰拉", 0], ["樞機", 0], ["本雅明·斯泰拉", 3]]}
+{"id": 8785, "predicted_label": "REFUTES", "predicted_evidence": [["福山城_(備後國)", 3], ["福山城_(備後國)", 0], ["福山城_(備後國)", 22], ["福山城_(備後國)", 14], ["福山城_(備後國)", 8]]}
+{"id": 8700, "predicted_label": "SUPPORTS", "predicted_evidence": [["農博公園", 4], ["2010年臺北國際花卉博覽會", 2], ["2010年臺北國際花卉博覽會", 0], ["2010年臺北國際花卉博覽會", 1]]}
+{"id": 4104, "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": null}
+{"id": 4299, "predicted_label": "SUPPORTS", "predicted_evidence": [["古蘭經", 8], ["古蘭經", 9], ["古蘭經", 10], ["伊斯蘭教的先知", 20]]}
+{"id": 4631, "predicted_label": "SUPPORTS", "predicted_evidence": [["張京澤", 0], ["中央民族大學", 108], ["中央民族大學", 30], ["中央民族大學", 102], ["中央民族大學", 101]]}
+{"id": 6751, "predicted_label": "SUPPORTS", "predicted_evidence": [["伊阿珀託斯", 5], ["普羅米修斯", 1], ["伊阿珀託斯", 0], ["伊阿珀託斯", 14], ["伊阿珀託斯", 4]]}
+{"id": 7302, "predicted_label": "REFUTES", "predicted_evidence": [["超人", 4], ["超人", 2], ["超人", 0], ["超人", 1], ["亞特蘭提斯_(DC漫畫)", 6]]}
+{"id": 9114, "predicted_label": "REFUTES", "predicted_evidence": [["木衛四十二", 1], ["木星", 1], ["木衛四十二", 0], ["木衛四十二", 10]]}
+{"id": 2804, "predicted_label": "SUPPORTS", "predicted_evidence": [["京杭大運河", 1], ["京杭大運河", 0]]}
+{"id": 1137, "predicted_label": "SUPPORTS", "predicted_evidence": [["馬六甲海峽", 10], ["酸奶南瓜", 0], ["馬六甲海峽", 0]]}
+{"id": 3093, "predicted_label": "SUPPORTS", "predicted_evidence": [["休斯敦", 0], ["休斯敦火箭", 42], ["休斯敦火箭", 43], ["休斯敦火箭", 28], ["休斯敦火箭", 16]]}
+{"id": 6281, "predicted_label": "SUPPORTS", "predicted_evidence": [["華中師範大學", 4], ["中國海洋大學", 29], ["中國海洋大學", 14], ["華中師範大學", 0], ["中國海洋大學", 24]]}
+{"id": 3589, "predicted_label": "REFUTES", "predicted_evidence": [["中華人民共和國地質礦產部", 4], ["中華人民共和國地質礦產部", 5], ["中華人民共和國地質礦產部", 3], ["中華人民共和國地質礦產部", 2], ["中華人民共和國地質礦產部", 8]]}
+{"id": 450, "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": null}
+{"id": 2589, "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": null}
+{"id": 1583, "predicted_label": "REFUTES", "predicted_evidence": [["京劇四大名旦", 0], ["京劇四大名旦", 4], ["梅蘭芳", 0], ["京劇四大名旦", 10], ["京劇四大名旦", 1]]}
+{"id": 6573, "predicted_label": "SUPPORTS", "predicted_evidence": [["侯孝賢", 2], ["侯孝賢", 1], ["侯孝賢", 3], ["侯孝賢", 0]]}
+{"id": 4387, "predicted_label": "SUPPORTS", "predicted_evidence": [["金星凌日", 18], ["天文學家", 0], ["天文臺", 1]]}
+{"id": 8265, "predicted_label": "SUPPORTS", "predicted_evidence": [["臺中市立啓明學校", 0]]}
+{"id": 5294, "predicted_label": "SUPPORTS", "predicted_evidence": [["Java_ME", 5]]}
+{"id": 4298, "predicted_label": "REFUTES", "predicted_evidence": [["古蘭經", 8], ["古蘭經", 9], ["古蘭經", 0]]}
+{"id": 5145, "predicted_label": "SUPPORTS", "predicted_evidence": [["埃塔", 6], ["埃塔", 7], ["埃塔", 8], ["埃塔", 0]]}
+{"id": 7843, "predicted_label": "SUPPORTS", "predicted_evidence": [["淋巴結腫大", 0], ["淋巴結腫大", 1], ["淋巴結腫大", 4]]}
+{"id": 5328, "predicted_label": "REFUTES", "predicted_evidence": [["蔡卓妍", 3], ["蔡卓妍", 0], ["蔡卓妍", 1]]}
+{"id": 8654, "predicted_label": "SUPPORTS", "predicted_evidence": [["臺北市客家文化主題公園", 1], ["臺北市客家文化主題公園", 0]]}
+{"id": 2216, "predicted_label": "SUPPORTS", "predicted_evidence": [["路易十四", 13], ["路易十四", 1], ["路易十四", 18]]}
+{"id": 3748, "predicted_label": "SUPPORTS", "predicted_evidence": [["重量", 5], ["重量", 15], ["重量", 4], ["重量", 12], ["重量", 10]]}
+{"id": 314, "predicted_label": "REFUTES", "predicted_evidence": [["北京理工大學", 75], ["北京理工大學", 65], ["北京理工大學", 54], ["北京理工大學", 36], ["北京理工大學", 69]]}
+{"id": 8227, "predicted_label": "SUPPORTS", "predicted_evidence": [["李祖德", 0]]}
+{"id": 3845, "predicted_label": "SUPPORTS", "predicted_evidence": [["東晉", 1], ["東晉", 2], ["建康_(東漢)", 4], ["東晉", 26]]}
+{"id": 5052, "predicted_label": "SUPPORTS", "predicted_evidence": [["網景通訊家", 35], ["網景通訊家", 36], ["Beonex_Communicator", 41], ["網景通訊家", 28], ["Beonex_Communicator", 39]]}
+{"id": 4952, "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": null}
+{"id": 548, "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": null}
+{"id": 765, "predicted_label": "SUPPORTS", "predicted_evidence": [["隋朝", 38], ["日本文化", 2], ["隋朝", 35], ["隋朝", 20], ["隋朝", 6]]}
+{"id": 3953, "predicted_label": "REFUTES", "predicted_evidence": [["真空磁導率", 0], ["物理常數", 4], ["物理常數", 0], ["真空磁導率", 1], ["物理常數", 6]]}
+{"id": 4078, "predicted_label": "REFUTES", "predicted_evidence": [["高錳酸鉀", 0]]}
+{"id": 5498, "predicted_label": "REFUTES", "predicted_evidence": [["賽普勒斯", 3], ["新石器時代", 4], ["新石器時代", 0]]}
+{"id": 4797, "predicted_label": "REFUTES", "predicted_evidence": [["隋煬帝", 8], ["隋煬帝", 6], ["隋煬帝", 3], ["隋煬帝", 0], ["隋煬帝", 2]]}
+{"id": 4259, "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": null}
+{"id": 4678, "predicted_label": "REFUTES", "predicted_evidence": [["于化虎", 7], ["于化虎", 8], ["于化虎", 4], ["于化虎", 9]]}
+{"id": 7695, "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": null}
+{"id": 8641, "predicted_label": "REFUTES", "predicted_evidence": [["妙義山", 2], ["妙義山", 0], ["妙義山", 1], ["希羅多德隕石坑", 6]]}
+{"id": 5740, "predicted_label": "SUPPORTS", "predicted_evidence": [["馬克思主義政治經濟學", 0]]}
+{"id": 9048, "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": null}
+{"id": 8589, "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": null}
+{"id": 1798, "predicted_label": "SUPPORTS", "predicted_evidence": [["韓國總統", 72], ["韓國總統", 71], ["韓國總統", 73], ["韓國總統", 70], ["韓國總統", 67]]}
+{"id": 4258, "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": null}
+{"id": 1156, "predicted_label": "REFUTES", "predicted_evidence": [["胸圍", 17], ["胸圍", 8], ["胸圍", 0], ["胸圍", 10], ["胸圍", 14]]}
+{"id": 1266, "predicted_label": "REFUTES", "predicted_evidence": [["伍迪·艾倫", 64], ["午夜巴黎", 0], ["伍迪·艾倫", 34], ["伍迪·艾倫", 60], ["伍迪·艾倫", 45]]}
+{"id": 3055, "predicted_label": "REFUTES", "predicted_evidence": [["全羅北道", 14], ["全羅北道", 0], ["全羅北道", 16]]}
+{"id": 8621, "predicted_label": "REFUTES", "predicted_evidence": [["松柏塱", 2], ["松柏塱", 3], ["松柏塱", 4], ["松柏塱", 0], ["松柏塱", 1]]}
+{"id": 7388, "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": null}
+{"id": 2009, "predicted_label": "REFUTES", "predicted_evidence": [["太平島", 3], ["黃巖島主權問題", 1], ["土珠島", 1], ["太平島", 2], ["黃巖島主權問題", 2]]}
+{"id": 6796, "predicted_label": "REFUTES", "predicted_evidence": [["茲德內克·莫拉維克", 366], ["米洛斯·提奇", 522], ["茲德內克·莫拉維克", 371], ["茲德內克·莫拉維克", 369], ["茲德內克·莫拉維克", 370]]}
+{"id": 4886, "predicted_label": "SUPPORTS", "predicted_evidence": [["艾山·買合蘇木", 1], ["奧薩馬·本·拉登", 6], ["艾山·買合蘇木", 3], ["艾山·買合蘇木", 2], ["艾山·買合蘇木", 0]]}
+{"id": 7493, "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": null}
+{"id": 8258, "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": null}
+{"id": 1767, "predicted_label": "SUPPORTS", "predicted_evidence": [["東帝汶", 3], ["東帝汶", 0], ["東帝汶", 2]]}
+{"id": 7405, "predicted_label": "SUPPORTS", "predicted_evidence": [["塘湖站", 0], ["塘湖站", 1]]}
+{"id": 1440, "predicted_label": "REFUTES", "predicted_evidence": [["亨利八世", 10], ["亨利八世", 4], ["亨利八世", 5], ["亨利八世", 0], ["亨利八世", 2]]}
+{"id": 3117, "predicted_label": "REFUTES", "predicted_evidence": [["列昂尼德·勃列日涅夫", 8], ["列昂尼德·勃列日涅夫", 6], ["列昂尼德·勃列日涅夫", 5], ["列昂尼德·勃列日涅夫", 10], ["列昂尼德·勃列日涅夫", 9]]}
+{"id": 5150, "predicted_label": "SUPPORTS", "predicted_evidence": [["古羅馬", 5], ["古羅馬", 4], ["羅馬騎士階級", 0]]}
+{"id": 6102, "predicted_label": "SUPPORTS", "predicted_evidence": [["暗殺", 10]]}
+{"id": 1736, "predicted_label": "SUPPORTS", "predicted_evidence": [["特別攻擊隊", 10], ["特別攻擊隊", 0], ["特別攻擊隊", 8], ["特別攻擊隊", 6], ["特別攻擊隊", 4]]}
+{"id": 8592, "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": null}
+{"id": 585, "predicted_label": "REFUTES", "predicted_evidence": [["漢族", 98], ["漢族", 97], ["漢族", 102]]}
+{"id": 6490, "predicted_label": "SUPPORTS", "predicted_evidence": [["西亞", 1], ["西亞", 0], ["西亞", 4], ["西亞", 5], ["西亞", 3]]}
+{"id": 4294, "predicted_label": "SUPPORTS", "predicted_evidence": [["九江市", 4], ["佩德羅-亞歷山大", 1]]}
+{"id": 6388, "predicted_label": "SUPPORTS", "predicted_evidence": [["真靈長大目", 3], ["靈長大目", 0], ["真靈長大目", 5], ["真靈長大目", 4], ["靈長大目", 13]]}
+{"id": 8333, "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": null}
+{"id": 3886, "predicted_label": "REFUTES", "predicted_evidence": [["回族", 7], ["回族", 2], ["回族", 4], ["回族", 12], ["回族", 3]]}
+{"id": 3448, "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": null}
+{"id": 8957, "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": null}
+{"id": 3893, "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": null}
+{"id": 899, "predicted_label": "SUPPORTS", "predicted_evidence": [["杜鵑科", 0], ["杜鵑科", 1]]}
+{"id": 6383, "predicted_label": "REFUTES", "predicted_evidence": [["大豆", 22], ["大豆", 0], ["大豆", 25], ["大豆", 17], ["消化作用", 6]]}
+{"id": 1529, "predicted_label": "REFUTES", "predicted_evidence": [["高雄縣", 0], ["泰國次級行政區劃", 1], ["泰國次級行政區劃", 2], ["泰國次級行政區劃", 9]]}
+{"id": 1718, "predicted_label": "REFUTES", "predicted_evidence": [["新異教主義", 0]]}
+{"id": 4530, "predicted_label": "SUPPORTS", "predicted_evidence": [["博羅金諾戰役", 0], ["拿破崙戰爭", 22], ["拿破崙戰爭", 19], ["拿破崙戰爭", 6], ["拿破崙戰爭", 20]]}
+{"id": 2688, "predicted_label": "REFUTES", "predicted_evidence": [["桃園市", 3], ["桃園市", 0], ["美國西岸", 3], ["美國西岸", 6], ["桃園市", 10]]}
+{"id": 8797, "predicted_label": "SUPPORTS", "predicted_evidence": [["李美妍", 4], ["李美妍", 3], ["李美妍", 0]]}
+{"id": 8322, "predicted_label": "REFUTES", "predicted_evidence": [["苯乙烯", 0], ["芳香烴", 15], ["芳香烴", 6], ["芳香烴", 13], ["芳香烴", 1]]}
+{"id": 5354, "predicted_label": "SUPPORTS", "predicted_evidence": [["硫酸", 1], ["溶解", 3], ["硫酸", 0], ["放熱", 3]]}
+{"id": 3715, "predicted_label": "SUPPORTS", "predicted_evidence": [["蜘蛛俠百戰曱甴精", 0]]}
+{"id": 8812, "predicted_label": "SUPPORTS", "predicted_evidence": [["元智大學", 66], ["元智大學", 64], ["元智大學", 65], ["元智大學", 2], ["元智大學", 26]]}
+{"id": 5000, "predicted_label": "REFUTES", "predicted_evidence": [["生物化學", 0]]}
+{"id": 1802, "predicted_label": "REFUTES", "predicted_evidence": [["亞穆蘇克羅", 0], ["科特迪瓦", 1], ["科特迪瓦", 0], ["阿比讓", 0]]}
+{"id": 3310, "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": null}
+{"id": 5748, "predicted_label": "REFUTES", "predicted_evidence": [["馬克思主義政治經濟學", 0]]}
+{"id": 6638, "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": null}
+{"id": 4853, "predicted_label": "SUPPORTS", "predicted_evidence": [["關羽", 15], ["關羽", 16], ["關羽", 0], ["關羽", 1], ["關羽", 11]]}
+{"id": 8127, "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": null}
+{"id": 5853, "predicted_label": "REFUTES", "predicted_evidence": [["馬爾代夫", 10], ["馬爾代夫", 9], ["馬爾代夫", 1], ["馬爾代夫", 5], ["馬爾代夫", 0]]}
+{"id": 3218, "predicted_label": "SUPPORTS", "predicted_evidence": [["齊秦", 3], ["齊秦", 0], ["齊豫", 4], ["我是歌手_(第一季)", 6], ["齊豫", 0]]}
+{"id": 3451, "predicted_label": "SUPPORTS", "predicted_evidence": [["文獻", 0], ["文獻", 4], ["文獻", 7], ["文獻", 5], ["文獻", 13]]}
+{"id": 4974, "predicted_label": "SUPPORTS", "predicted_evidence": [["荷馬史詩", 15], ["荷馬史詩", 0], ["荷馬史詩", 1], ["荷馬史詩", 10], ["荷馬史詩", 11]]}
+{"id": 8142, "predicted_label": "SUPPORTS", "predicted_evidence": [["賈繼之", 2], ["賈繼之", 1], ["賈繼之", 0], ["明朝", 28], ["打牲烏拉總管衙門", 0]]}
+{"id": 5712, "predicted_label": "SUPPORTS", "predicted_evidence": [["梅庵_(肇慶)", 5], ["肇慶市", 0], ["梅庵_(肇慶)", 0], ["梅庵_(肇慶)", 2]]}
+{"id": 8335, "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": null}
+{"id": 8255, "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": null}
+{"id": 8637, "predicted_label": "REFUTES", "predicted_evidence": [["妙義山", 2], ["妙義山", 0], ["妙義山", 1], ["希羅多德隕石坑", 6]]}
+{"id": 5673, "predicted_label": "REFUTES", "predicted_evidence": [["汾河", 0], ["汾河", 1], ["汾河", 14], ["汾河", 7], ["汾河", 3]]}
+{"id": 1491, "predicted_label": "SUPPORTS", "predicted_evidence": [["暗殺", 5]]}
+{"id": 3449, "predicted_label": "REFUTES", "predicted_evidence": [["延慶古崖居", 1], ["延慶古崖居", 0]]}
+{"id": 979, "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": null}
+{"id": 6550, "predicted_label": "SUPPORTS", "predicted_evidence": [["貓", 2], ["外來物種", 7]]}
+{"id": 550, "predicted_label": "REFUTES", "predicted_evidence": [["骨鰾類", 1], ["鳥", 6], ["鳥", 4], ["骨鰾類", 2], ["鳥", 5]]}
+{"id": 7419, "predicted_label": "SUPPORTS", "predicted_evidence": [["聖彼得堡", 3], ["聖彼得堡", 0], ["聖彼得堡", 8], ["聖彼得堡", 1], ["聖彼得堡", 10]]}
+{"id": 1086, "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": null}
+{"id": 1272, "predicted_label": "SUPPORTS", "predicted_evidence": [["穀梁傳", 0], ["穀梁傳", 17], ["穀梁傳", 12]]}
+{"id": 8756, "predicted_label": "REFUTES", "predicted_evidence": [["死者能舞", 3], ["死者能舞", 0], ["死者能舞", 29], ["死者能舞", 20], ["死者能舞", 19]]}
+{"id": 1408, "predicted_label": "REFUTES", "predicted_evidence": [["貝尼託·胡亞雷斯", 0]]}
+{"id": 6853, "predicted_label": "REFUTES", "predicted_evidence": [["臺灣天文觀測", 0], ["臺灣天文觀測", 2], ["臺灣天文觀測", 1]]}
+{"id": 6271, "predicted_label": "SUPPORTS", "predicted_evidence": [["賽普勒斯", 6], ["賽普勒斯", 3], ["賽普勒斯", 4], ["英國", 0]]}
+{"id": 7631, "predicted_label": "SUPPORTS", "predicted_evidence": [["臺灣時報_(日治時期)", 5], ["臺灣時報_(日治時期)", 4], ["臺灣時報_(日治時期)", 0], ["臺灣時報_(日治時期)", 6]]}
+{"id": 1275, "predicted_label": "SUPPORTS", "predicted_evidence": [["穀梁傳", 0], ["穀梁傳", 12], ["穀梁傳", 17]]}
+{"id": 6924, "predicted_label": "SUPPORTS", "predicted_evidence": [["雞", 0], ["肉類食物", 5]]}
+{"id": 1399, "predicted_label": "REFUTES", "predicted_evidence": [["艾根訴加拿大案", 7], ["艾根訴加拿大案", 4], ["艾根訴加拿大案", 5], ["艾根訴加拿大案", 0], ["艾根訴加拿大案", 6]]}
+{"id": 3129, "predicted_label": "REFUTES", "predicted_evidence": [["哈比人歷險記", 6], ["哈比人歷險記", 11], ["哈比人歷險記", 5], ["哈比人歷險記", 8], ["哈比人歷險記", 0]]}
+{"id": 2271, "predicted_label": "REFUTES", "predicted_evidence": [["宗教哲學", 5]]}
+{"id": 779, "predicted_label": "SUPPORTS", "predicted_evidence": [["金屬", 6]]}
+{"id": 7404, "predicted_label": "SUPPORTS", "predicted_evidence": [["塘湖站", 0], ["塘湖站", 1]]}
+{"id": 7029, "predicted_label": "SUPPORTS", "predicted_evidence": [["林鈺婷", 100], ["林鈺婷", 3], ["林鈺婷", 51], ["林鈺婷", 0], ["林鈺婷", 12]]}
+{"id": 3602, "predicted_label": "SUPPORTS", "predicted_evidence": [["保羅·狄拉克", 0], ["保羅·狄拉克", 11], ["保羅·狄拉克", 10], ["保羅·狄拉克", 3], ["保羅·狄拉克", 7]]}
+{"id": 8607, "predicted_label": "REFUTES", "predicted_evidence": [["二胡", 7], ["二胡", 1], ["二胡", 6], ["二胡", 15], ["蟒科", 3]]}
+{"id": 4967, "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": null}
+{"id": 7165, "predicted_label": "REFUTES", "predicted_evidence": [["市政府站_(臺中市公車站)", 1], ["市政府站_(臺中市)", 0], ["臺中車站_(公車站)", 1], ["市政府車站_(BMT百老匯線)", 0], ["市政府站_(臺中)", 0]]}
+{"id": 4520, "predicted_label": "SUPPORTS", "predicted_evidence": [["指南車", 18], ["指南車", 7], ["指南車", 13], ["指南車", 11], ["指南車", 1]]}
+{"id": 7440, "predicted_label": "REFUTES", "predicted_evidence": [["宋潢_(嘉慶壬戌進士)", 0], ["朝鮮及臺灣住民政治參與相關詔書", 0]]}
+{"id": 3406, "predicted_label": "REFUTES", "predicted_evidence": [["嵩山", 5], ["嵩山", 4], ["嵩山", 6], ["聯合國教育、科學及文化組織", 21]]}
+{"id": 6878, "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": null}
+{"id": 4261, "predicted_label": "SUPPORTS", "predicted_evidence": [["總統制", 0], ["祕魯", 8], ["政府首腦", 5], ["政府首腦", 0], ["總統制", 1]]}
+{"id": 7531, "predicted_label": "SUPPORTS", "predicted_evidence": [["新北市區公車790路線", 1], ["新北市區公車790路線", 0]]}
+{"id": 2286, "predicted_label": "SUPPORTS", "predicted_evidence": [["形上學", 0], ["形上學", 5], ["形上學", 16], ["形上學", 17], ["形上學", 11]]}
+{"id": 1646, "predicted_label": "REFUTES", "predicted_evidence": [["愛丁堡大學", 57], ["愛丁堡大學", 58], ["愛丁堡大學", 52], ["愛丁堡大學", 66]]}
+{"id": 6712, "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": null}
+{"id": 1930, "predicted_label": "SUPPORTS", "predicted_evidence": [["天鵝湖", 0], ["天鵝湖公主芭比", 2], ["莫斯科大劇院", 4], ["莫斯科大劇院", 6], ["莫斯科大劇院", 0]]}
+{"id": 5131, "predicted_label": "REFUTES", "predicted_evidence": [["古蘭經", 5], ["古蘭經", 0], ["伊斯蘭教的先知", 12], ["伊斯蘭教的先知", 11], ["伊斯蘭教的先知", 18]]}
+{"id": 4430, "predicted_label": "REFUTES", "predicted_evidence": [["弗朗西斯·科波拉", 13], ["弗朗西斯·科波拉", 14], ["弗朗西斯·科波拉", 24], ["弗朗西斯·科波拉", 6], ["弗朗西斯·科波拉", 1]]}
+{"id": 3261, "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": null}
+{"id": 1951, "predicted_label": "SUPPORTS", "predicted_evidence": [["汶萊", 3], ["英屬婆羅洲", 0], ["汶萊", 0]]}
+{"id": 1206, "predicted_label": "REFUTES", "predicted_evidence": [["歐洲民族", 2], ["歐洲民族", 1], ["歐洲民族", 0], ["歐洲民族", 5], ["歐洲民族", 101]]}
+{"id": 3967, "predicted_label": "SUPPORTS", "predicted_evidence": [["謝長廷", 4], ["謝長廷", 6], ["謝長廷", 14], ["謝長廷", 15], ["謝長廷", 0]]}
+{"id": 4516, "predicted_label": "SUPPORTS", "predicted_evidence": [["航空交通管制", 1], ["航空交通管制", 0]]}
+{"id": 5213, "predicted_label": "REFUTES", "predicted_evidence": [["波士頓", 2], ["波士頓", 1]]}
+{"id": 2970, "predicted_label": "SUPPORTS", "predicted_evidence": [["吳健雄", 1], ["吳健雄", 0], ["吳健雄", 4], ["吳健雄", 6], ["美國天文學會", 66]]}
+{"id": 6933, "predicted_label": "REFUTES", "predicted_evidence": [["再造人卡辛", 4], ["再造人卡辛", 3], ["再造人卡辛", 0]]}
+{"id": 8703, "predicted_label": "REFUTES", "predicted_evidence": [["2010年臺北國際花卉博覽會", 0], ["2010年臺北國際花卉博覽會", 1], ["2010年臺北國際花卉博覽會", 2]]}
+{"id": 5016, "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": null}
+{"id": 2544, "predicted_label": "REFUTES", "predicted_evidence": [["果酒", 1], ["果酒", 0], ["果酒", 2], ["果酒", 7], ["蘭姆酒", 9]]}
+{"id": 8989, "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": null}
+{"id": 529, "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": null}
+{"id": 7263, "predicted_label": "REFUTES", "predicted_evidence": [["尤里·安德羅波夫", 14], ["尤里·安德羅波夫", 0], ["腎功能衰竭", 14], ["腎功能衰竭", 12], ["腎功能衰竭", 0]]}
+{"id": 2657, "predicted_label": "REFUTES", "predicted_evidence": [["一貫道", 7], ["一貫道", 4], ["一貫道", 8], ["上帝", 0]]}
+{"id": 7885, "predicted_label": "REFUTES", "predicted_evidence": [["葉巒_(景泰進士)", 5], ["葉巒_(景泰進士)", 4], ["葉巒_(景泰進士)", 6], ["鄉試", 2]]}
+{"id": 7682, "predicted_label": "REFUTES", "predicted_evidence": [["始海百合", 2], ["始海百合", 0], ["輻射海百合", 0]]}
+{"id": 397, "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": null}
+{"id": 6964, "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": null}
+{"id": 7931, "predicted_label": "REFUTES", "predicted_evidence": [["貝雷特", 8], ["貝雷特", 7], ["貝雷特", 5], ["貝雷特", 3], ["貝雷特", 4]]}
+{"id": 8264, "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": null}
+{"id": 6942, "predicted_label": "REFUTES", "predicted_evidence": [["國立臺灣科技大學研揚大樓", 0], ["國立臺灣科技大學研揚大樓", 6], ["國立臺灣科技大學研揚大樓", 3]]}
+{"id": 7936, "predicted_label": "REFUTES", "predicted_evidence": [["證明完畢", 2], ["證明完畢", 3], ["證明完畢", 6]]}
+{"id": 525, "predicted_label": "SUPPORTS", "predicted_evidence": [["虛擬教研中心", 0], ["虛擬教研中心", 1]]}
+{"id": 7835, "predicted_label": "SUPPORTS", "predicted_evidence": [["正壬醇", 1], ["正壬醇", 0]]}
+{"id": 5431, "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": null}
+{"id": 3022, "predicted_label": "REFUTES", "predicted_evidence": [["竹內瑪莉亞", 1], ["竹內瑪莉亞", 0], ["竹內瑪莉亞", 2]]}
+{"id": 4560, "predicted_label": "SUPPORTS", "predicted_evidence": [["明報", 31], ["明報", 26], ["明報", 22], ["明報", 6], ["明報", 14]]}
+{"id": 5402, "predicted_label": "REFUTES", "predicted_evidence": [["香港大學", 60], ["香港大學", 58], ["香港大學", 57], ["香港大學", 2]]}
+{"id": 996, "predicted_label": "REFUTES", "predicted_evidence": [["伍迪·艾倫", 65], ["伍迪·艾倫", 64], ["伍迪·艾倫", 45], ["伍迪·艾倫", 74], ["伍迪·艾倫", 69]]}
+{"id": 603, "predicted_label": "REFUTES", "predicted_evidence": [["計算機協會", 0], ["計算機協會", 14]]}
+{"id": 7403, "predicted_label": "REFUTES", "predicted_evidence": [["塘湖站", 0], ["塘湖站", 1]]}
+{"id": 9009, "predicted_label": "SUPPORTS", "predicted_evidence": [["富蘭克林·德拉諾·羅斯福", 26], ["富蘭克林·德拉諾·羅斯福", 0], ["富蘭克林·德拉諾·羅斯福", 2], ["富蘭克林·德拉諾·羅斯福", 25], ["富蘭克林·德拉諾·羅斯福", 4]]}
+{"id": 3434, "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": null}
+{"id": 750, "predicted_label": "SUPPORTS", "predicted_evidence": [["昭武九姓", 1], ["昭武九姓", 0], ["昭武九姓", 14], ["昭武九姓", 13], ["昭武九姓", 5]]}
+{"id": 536, "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": null}
+{"id": 1305, "predicted_label": "SUPPORTS", "predicted_evidence": [["穀梁傳", 0], ["穀梁傳", 17], ["穀梁傳", 12]]}
+{"id": 2385, "predicted_label": "REFUTES", "predicted_evidence": [["北平_(消歧義)", 4], ["北平_(消歧義)", 8], ["北平_(消歧義)", 6], ["北平_(消歧義)", 2], ["咸豐_(消歧義)", 0]]}
+{"id": 5186, "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": null}
+{"id": 5428, "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": null}
+{"id": 774, "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": null}
+{"id": 130, "predicted_label": "SUPPORTS", "predicted_evidence": [["樂山大佛", 1], ["樂山大佛", 0], ["樂山大佛", 3], ["樂山大佛", 5], ["樂山大佛", 6]]}
+{"id": 8997, "predicted_label": "REFUTES", "predicted_evidence": [["臺灣土地銀行", 51], ["臺灣土地銀行", 54], ["臺灣銀行列表", 4], ["臺灣土地銀行", 0], ["臺灣土地銀行", 2]]}
+{"id": 1102, "predicted_label": "SUPPORTS", "predicted_evidence": [["火衛二", 3], ["火衛二", 2], ["木星的衛星", 1], ["火衛二", 0]]}
+{"id": 3836, "predicted_label": "REFUTES", "predicted_evidence": [["墨家", 8], ["墨家", 9]]}
+{"id": 2433, "predicted_label": "REFUTES", "predicted_evidence": [["表現主義", 1], ["表現主義", 0], ["表現主義", 2], ["表現主義", 8], ["印象派", 12]]}
+{"id": 5159, "predicted_label": "SUPPORTS", "predicted_evidence": [["鑽石", 0], ["鑽石", 1], ["美度", 9], ["樞要寶石", 9]]}
+{"id": 2060, "predicted_label": "REFUTES", "predicted_evidence": [["亞當", 9], ["亞當", 6], ["亞當", 12], ["亞當", 11], ["亞當", 1]]}
+{"id": 1310, "predicted_label": "REFUTES", "predicted_evidence": [["凝聚態物理學", 20], ["凝聚態物理學", 30], ["固體物理學", 0], ["凝聚態物理學", 13], ["凝聚態物理學", 17]]}
+{"id": 4242, "predicted_label": "REFUTES", "predicted_evidence": [["上座部", 0], ["大衆部", 0], ["教派", 0], ["上座部", 6]]}
+{"id": 2178, "predicted_label": "REFUTES", "predicted_evidence": [["南京師範大學附屬中學", 0], ["南京大學附屬中學_(消歧義)", 2], ["南京師範大學附屬中學", 1]]}
+{"id": 5757, "predicted_label": "REFUTES", "predicted_evidence": [["馬克思主義政治經濟學", 0]]}
+{"id": 2628, "predicted_label": "SUPPORTS", "predicted_evidence": [["環境監測", 8], ["環境監測", 9], ["環境監測", 19]]}
+{"id": 7174, "predicted_label": "SUPPORTS", "predicted_evidence": [["臺中市立臺中女子高級中等學校", 0], ["庇理羅士女子中學", 1], ["庇理羅士女子中學", 0]]}
+{"id": 6789, "predicted_label": "SUPPORTS", "predicted_evidence": [["伯特蘭·羅素", 1], ["西方哲學史_(羅素)", 0]]}
+{"id": 3782, "predicted_label": "SUPPORTS", "predicted_evidence": [["奧古斯都", 14], ["奧古斯都", 13], ["提貝里烏斯", 0], ["奧古斯都", 0], ["奧古斯都", 2]]}
+{"id": 8369, "predicted_label": "SUPPORTS", "predicted_evidence": [["夫人", 5], ["夫人", 7], ["夫人", 3], ["婚姻", 4], ["夫人", 2]]}
+{"id": 6142, "predicted_label": "SUPPORTS", "predicted_evidence": [["20世紀", 0], ["元旦", 0]]}
+{"id": 742, "predicted_label": "SUPPORTS", "predicted_evidence": [["議會_(基里巴斯)", 0], ["議會_(赤道幾內亞)", 0], ["議會_(科特迪瓦)", 0], ["議會_(喀麥隆)", 0], ["議會_(多米尼克)", 0]]}
+{"id": 2322, "predicted_label": "REFUTES", "predicted_evidence": [["鯡形目", 1], ["鯡形目", 0], ["輻鰭魚綱", 0]]}
+{"id": 3494, "predicted_label": "SUPPORTS", "predicted_evidence": [["古希臘悲劇", 1], ["古希臘悲劇", 2], ["古希臘悲劇", 0], ["古希臘悲劇", 4]]}
+{"id": 8011, "predicted_label": "REFUTES", "predicted_evidence": [["普拉桑塔·帕坦尼克", 1], ["普拉桑塔·帕坦尼克", 2], ["普拉桑塔·帕坦尼克", 0], ["普拉桑塔·帕坦尼克", 8], ["普拉桑塔·帕坦尼克", 3]]}
+{"id": 5532, "predicted_label": "REFUTES", "predicted_evidence": [["海得拉巴_(印度)", 7], ["海得拉巴", 2], ["海得拉巴_(印度)", 6]]}
+{"id": 8376, "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": null}
+{"id": 6799, "predicted_label": "SUPPORTS", "predicted_evidence": [["聖保羅書院", 5], ["聖保羅書院", 4], ["聖保羅書院", 6], ["聖保羅書院", 11], ["聖保羅書院", 10]]}
+{"id": 936, "predicted_label": "REFUTES", "predicted_evidence": [["威廉·薩默塞特·毛姆", 5], ["威廉·薩默塞特·毛姆", 4], ["威廉·薩默塞特·毛姆", 0], ["威廉·薩默塞特·毛姆", 3], ["威廉·薩默塞特·毛姆", 7]]}
+{"id": 6785, "predicted_label": "REFUTES", "predicted_evidence": [["伯特蘭·羅素", 1]]}
+{"id": 2796, "predicted_label": "SUPPORTS", "predicted_evidence": [["慕容復", 4], ["慕容復", 0], ["慕容復", 8], ["慕容復", 9], ["反派角色", 0]]}
+{"id": 1897, "predicted_label": "SUPPORTS", "predicted_evidence": [["謝長廷", 4], ["謝長廷", 6], ["黨外運動", 2], ["謝長廷", 15], ["謝長廷", 7]]}
+{"id": 1355, "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": null}
+{"id": 7663, "predicted_label": "SUPPORTS", "predicted_evidence": [["忠烈祠_(臺灣)", 5], ["中國國民黨", 0], ["國民政府", 0], ["國民政府", 16]]}
+{"id": 1154, "predicted_label": "SUPPORTS", "predicted_evidence": [["胸圍", 17], ["胸圍", 8], ["胸圍", 0], ["胸圍", 19], ["胸圍", 10]]}
+{"id": 6080, "predicted_label": "SUPPORTS", "predicted_evidence": [["抄襲", 12], ["抄襲", 0], ["維基百科_(消歧義)", 6]]}
+{"id": 8519, "predicted_label": "SUPPORTS", "predicted_evidence": [["古賽爾戰役", 0], ["遜尼派", 0], ["古賽爾戰役", 1]]}
+{"id": 4749, "predicted_label": "REFUTES", "predicted_evidence": [["蘇格拉底", 2], ["柏拉圖", 1], ["蘇格拉底", 3], ["蘇格拉底", 0], ["柏拉圖", 0]]}
+{"id": 4931, "predicted_label": "SUPPORTS", "predicted_evidence": [["漢", 37], ["漢趙", 4], ["劉淵", 4], ["劉淵", 3], ["劉淵", 0]]}
+{"id": 8495, "predicted_label": "SUPPORTS", "predicted_evidence": [["西門站_(臺北捷運)", 27], ["西門站_(臺北捷運)", 7], ["西門站_(臺北捷運)", 15], ["西門站_(臺北捷運)", 9], ["西門站_(臺北捷運)", 11]]}
+{"id": 4584, "predicted_label": "REFUTES", "predicted_evidence": [["太行山", 0], ["太行山", 2], ["太行山", 1], ["太行山", 3]]}
+{"id": 1769, "predicted_label": "REFUTES", "predicted_evidence": [["東帝汶", 3], ["東帝汶", 0], ["東帝汶", 2]]}
+{"id": 4924, "predicted_label": "SUPPORTS", "predicted_evidence": [["皮特·烏斯蒂諾夫", 1], ["皮特·烏斯蒂諾夫", 2], ["皮特·烏斯蒂諾夫", 0], ["皮特·烏斯蒂諾夫", 17], ["皮特·烏斯蒂諾夫", 8]]}
+{"id": 3679, "predicted_label": "REFUTES", "predicted_evidence": [["行憲紀念日", 3], ["行憲紀念日", 0], ["行憲紀念日", 1], ["行憲紀念日", 2], ["聖誕節", 0]]}
+{"id": 8091, "predicted_label": "REFUTES", "predicted_evidence": [["狻猊", 0], ["狻猊", 1]]}
+{"id": 6356, "predicted_label": "REFUTES", "predicted_evidence": [["張谷英村", 9], ["張谷英村", 0], ["張谷英村", 8], ["張谷英村", 4], ["張谷英村", 1]]}
+{"id": 6793, "predicted_label": "SUPPORTS", "predicted_evidence": [["茲德內克·莫拉維克", 366], ["茲德內克·莫拉維克", 371], ["茲德內克·莫拉維克", 370], ["茲德內克·莫拉維克", 369], ["茲德內克·莫拉維克", 364]]}
+{"id": 1213, "predicted_label": "REFUTES", "predicted_evidence": [["歐洲民族", 2], ["歐洲民族", 1], ["歐洲民族", 0], ["歐洲民族", 5], ["歐洲民族", 101]]}
+{"id": 2661, "predicted_label": "SUPPORTS", "predicted_evidence": [["一貫道", 7], ["一貫道", 4], ["觀世音菩薩", 2], ["一貫道", 8]]}
+{"id": 5718, "predicted_label": "SUPPORTS", "predicted_evidence": [["京杭大運河", 2], ["嘉興市", 3], ["嘉興市", 2], ["雲嶺", 23], ["雲嶺", 25]]}
+{"id": 7681, "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": null}
+{"id": 7539, "predicted_label": "REFUTES", "predicted_evidence": [["加布艾萊西島", 0]]}
+{"id": 2827, "predicted_label": "SUPPORTS", "predicted_evidence": [["城市規劃", 2], ["城市規劃", 0], ["城市規劃", 1], ["城市規劃", 18], ["城市規劃", 20]]}
+{"id": 4466, "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": null}
+{"id": 7271, "predicted_label": "SUPPORTS", "predicted_evidence": [["澳門2010年度頒授勳章、獎章和獎狀名單", 1], ["澳門2013年度頒授勳章、獎章和獎狀名單", 1], ["澳門2010年度頒授勳章、獎章和獎狀名單", 0], ["澳門2013年度頒授勳章、獎章和獎狀名單", 0], ["澳門", 0]]}
+{"id": 5628, "predicted_label": "REFUTES", "predicted_evidence": [["震盪波蠕蟲", 14], ["震盪波蠕蟲", 12], ["震盪波蠕蟲", 13], ["王佩英", 0], ["震盪波蠕蟲", 0]]}
+{"id": 4933, "predicted_label": "SUPPORTS", "predicted_evidence": [["鹼石灰", 3], ["氫氧化鈣", 0], ["鹼石灰", 0]]}
+{"id": 2847, "predicted_label": "SUPPORTS", "predicted_evidence": [["德川家康", 16], ["德川家康", 23], ["德川家康", 0], ["徵夷大將軍", 13], ["徵夷大將軍", 2]]}
+{"id": 7839, "predicted_label": "SUPPORTS", "predicted_evidence": [["正壬醇", 1], ["正壬醇", 0]]}
+{"id": 1076, "predicted_label": "SUPPORTS", "predicted_evidence": [["鎮江市", 0], ["京口區", 0], ["潤州區", 0], ["潤州區", 2], ["京口區", 4]]}
+{"id": 3737, "predicted_label": "REFUTES", "predicted_evidence": [["雷克雅維克", 0], ["冰島", 2], ["雷克雅維克", 5]]}
+{"id": 5924, "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": null}
+{"id": 7890, "predicted_label": "SUPPORTS", "predicted_evidence": [["蟲川大杉車站", 3], ["蟲川大杉車站", 0]]}
+{"id": 8610, "predicted_label": "REFUTES", "predicted_evidence": [["臺北市私立道明外僑學校", 0]]}
+{"id": 4368, "predicted_label": "SUPPORTS", "predicted_evidence": [["泰坦尼克號", 5], ["泰坦尼克號", 0], ["泰坦尼克號", 9], ["泰坦尼克號_(1997年電影)", 1]]}
+{"id": 8939, "predicted_label": "SUPPORTS", "predicted_evidence": [["兒玉利國", 0], ["兒玉利國", 1], ["兒玉利國", 2]]}
+{"id": 6917, "predicted_label": "SUPPORTS", "predicted_evidence": [["冠蕉鵑", 2], ["冠蕉鵑", 0], ["冠蕉鵑", 1]]}
+{"id": 1922, "predicted_label": "REFUTES", "predicted_evidence": [["神農", 1], ["托特", 1], ["托特", 0], ["神農", 0]]}
+{"id": 4764, "predicted_label": "REFUTES", "predicted_evidence": [["劉若英", 1], ["劉若英", 2], ["劉若英", 3], ["劉若英", 4], ["劉若英", 5]]}
+{"id": 1430, "predicted_label": "SUPPORTS", "predicted_evidence": [["張谷英村", 1], ["張谷英村", 0], ["張谷英村", 4], ["天津市歷史風貌建築列表", 0], ["張谷英村", 9]]}
+{"id": 8050, "predicted_label": "REFUTES", "predicted_evidence": [["科隆", 15], ["世界青年日", 0], ["科隆", 14], ["科隆_(巴拿馬)", 0], ["科隆", 22]]}
+{"id": 7548, "predicted_label": "SUPPORTS", "predicted_evidence": [["毒魚豆", 4]]}
+{"id": 1121, "predicted_label": "SUPPORTS", "predicted_evidence": [["MacOS", 58]]}
+{"id": 3429, "predicted_label": "SUPPORTS", "predicted_evidence": [["基隆市", 0], ["基隆市", 1], ["新竹市", 1], ["新竹市", 0]]}
+{"id": 3428, "predicted_label": "SUPPORTS", "predicted_evidence": [["基隆市", 0], ["基隆市", 1]]}
+{"id": 7927, "predicted_label": "SUPPORTS", "predicted_evidence": [["貝雷特", 8], ["貝雷特", 7], ["貝雷特", 5], ["貝雷特", 3], ["貝雷特", 4]]}
+{"id": 2247, "predicted_label": "SUPPORTS", "predicted_evidence": [["阿馬蒂亞·庫馬爾·森", 0], ["阿馬蒂亞·庫馬爾·森", 2], ["阿馬蒂亞·庫馬爾·森", 5], ["阿馬蒂亞·庫馬爾·森", 4], ["阿馬蒂亞·庫馬爾·森", 3]]}
+{"id": 5190, "predicted_label": "SUPPORTS", "predicted_evidence": [["亞裔美國人", 23], ["亞裔美國人", 21], ["亞裔美國人", 22], ["亞裔美國人", 12], ["亞裔美國人", 0]]}
+{"id": 538, "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": null}
+{"id": 352, "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": null}
+{"id": 3212, "predicted_label": "SUPPORTS", "predicted_evidence": [["千與千尋", 10], ["千與千尋", 9], ["皇天后土", 1], ["千與千尋", 13], ["千與千尋", 5]]}
+{"id": 1737, "predicted_label": "SUPPORTS", "predicted_evidence": [["中華人民共和國勞動人事部", 1], ["中華人民共和國勞動人事部", 0], ["獨立電視公司", 11]]}
+{"id": 592, "predicted_label": "SUPPORTS", "predicted_evidence": [["島嶼國家", 1], ["世界_(雜誌)", 31], ["舊金山49人", 0], ["舊金山49人", 3], ["世界上唯一的花", 9]]}
+{"id": 777, "predicted_label": "REFUTES", "predicted_evidence": [["金屬", 6]]}
+{"id": 383, "predicted_label": "SUPPORTS", "predicted_evidence": [["許世友", 3], ["許世友", 0], ["許世友", 8], ["許世友", 7], ["許世友", 6]]}
+{"id": 8747, "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": null}
+{"id": 3237, "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": null}
+{"id": 7687, "predicted_label": "SUPPORTS", "predicted_evidence": [["小行星3063", 0], ["小行星3063", 4], ["太陽物理學", 0], ["小行星3063", 1], ["太陽", 15]]}
+{"id": 1303, "predicted_label": "SUPPORTS", "predicted_evidence": [["穀梁傳", 0], ["穀梁傳", 17], ["穀梁傳", 12]]}
+{"id": 3558, "predicted_label": "SUPPORTS", "predicted_evidence": [["嫘祖", 7], ["嫘祖", 8], ["黃帝", 1], ["嫘祖", 9], ["顓頊", 1]]}
+{"id": 598, "predicted_label": "SUPPORTS", "predicted_evidence": [["計算機協會", 0], ["計算機協會", 4], ["計算機協會", 14]]}
+{"id": 728, "predicted_label": "REFUTES", "predicted_evidence": [["銀川市", 2], ["銀川市", 0], ["銀川市", 4], ["銀川市", 5]]}
+{"id": 2754, "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": null}
+{"id": 5019, "predicted_label": "REFUTES", "predicted_evidence": [["真菌", 0], ["真菌", 27], ["真菌", 9], ["真菌", 10], ["真菌", 26]]}
+{"id": 6539, "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": null}
+{"id": 7039, "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": null}
+{"id": 1186, "predicted_label": "REFUTES", "predicted_evidence": [["歐洲民族", 2], ["歐洲民族", 1], ["歐洲民族", 0], ["歐洲民族", 5], ["歐洲民族", 101]]}
+{"id": 2386, "predicted_label": "SUPPORTS", "predicted_evidence": [["北平_(消歧義)", 4], ["北平_(消歧義)", 8], ["南京市_(中華民國)", 0], ["北平_(消歧義)", 6], ["北平_(消歧義)", 2]]}
+{"id": 4232, "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": null}
+{"id": 3860, "predicted_label": "SUPPORTS", "predicted_evidence": [["藥物", 5], ["藥物", 0], ["藥物", 9], ["藥物", 6]]}
+{"id": 3657, "predicted_label": "SUPPORTS", "predicted_evidence": [["埃爾熱", 1], ["藝苑名人傳", 6], ["丁丁歷險記", 2]]}
+{"id": 7001, "predicted_label": "SUPPORTS", "predicted_evidence": [["格但斯克", 102], ["格但斯克", 95], ["格但斯克", 92], ["格但斯克", 97], ["格但斯克", 101]]}
+{"id": 2458, "predicted_label": "SUPPORTS", "predicted_evidence": [["路易十四", 15], ["路易十四", 14], ["路易十四", 16], ["路易十四", 18]]}
+{"id": 8691, "predicted_label": "REFUTES", "predicted_evidence": [["納尼氏囊鰓鯰", 0]]}
+{"id": 8203, "predicted_label": "REFUTES", "predicted_evidence": [["臺北市_(州轄市)", 5], ["住好啲", 0], ["臺籍日本兵", 0], ["臺北市_(州轄市)", 4]]}
+{"id": 2292, "predicted_label": "SUPPORTS", "predicted_evidence": [["剛果民主共和國", 1], ["剛果民主共和國", 0], ["剛果民主共和國", 2], ["剛果民主共和國", 3], ["剛果民主共和國", 7]]}
+{"id": 8234, "predicted_label": "SUPPORTS", "predicted_evidence": [["貴之富士三造", 1], ["貴之富士三造", 3], ["貴之富士三造", 9], ["貴之富士三造", 0], ["貴之富士三造", 6]]}
+{"id": 6324, "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": null}
+{"id": 8162, "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": null}
+{"id": 1003, "predicted_label": "SUPPORTS", "predicted_evidence": [["馬丁·路德·金", 5], ["馬丁·路德·金", 0], ["馬丁·路德·金", 4], ["馬丁·路德·金", 6], ["聯合抵制蒙哥馬利公車運動", 1]]}
+{"id": 2583, "predicted_label": "SUPPORTS", "predicted_evidence": [["鄭希怡", 1], ["鄭希怡", 0], ["鄭希怡", 2], ["3T_(美國音樂組合)", 0], ["菩提達磨大師略辨大乘入道四行觀", 0]]}
+{"id": 1572, "predicted_label": "REFUTES", "predicted_evidence": [["天使怪盜", 0]]}
+{"id": 2677, "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": null}
+{"id": 6939, "predicted_label": "SUPPORTS", "predicted_evidence": [["國立臺灣科技大學研揚大樓", 0], ["國立臺灣科技大學研揚大樓", 6], ["國立臺灣科技大學研揚大樓", 3]]}
+{"id": 7396, "predicted_label": "SUPPORTS", "predicted_evidence": [["沙丁魚", 0]]}
+{"id": 5972, "predicted_label": "SUPPORTS", "predicted_evidence": [["果實", 1], ["果實", 0], ["子房", 8], ["果實", 8], ["子房", 4]]}
+{"id": 4748, "predicted_label": "SUPPORTS", "predicted_evidence": [["蘇格拉底", 3], ["蘇格拉底", 2], ["對話", 1], ["對話", 2]]}
+{"id": 3610, "predicted_label": "SUPPORTS", "predicted_evidence": [["隋煬帝", 0], ["隋煬帝", 3], ["楊勇_(隋朝)", 4], ["楊勇_(隋朝)", 1], ["隋煬帝", 2]]}
+{"id": 5633, "predicted_label": "SUPPORTS", "predicted_evidence": [["張惠妹", 23], ["張惠妹", 0], ["滾石_(雜誌)", 0], ["張惠妹", 2], ["張惠妹", 21]]}
+{"id": 2195, "predicted_label": "REFUTES", "predicted_evidence": [["淄博市", 5], ["淄博市", 2], ["淄博市", 0]]}
+{"id": 807, "predicted_label": "REFUTES", "predicted_evidence": [["阿爾·戈爾", 79], ["阿爾·戈爾", 81], ["阿爾·戈爾", 2], ["阿爾·戈爾", 0], ["阿爾·戈爾", 44]]}
+{"id": 7382, "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": null}
+{"id": 868, "predicted_label": "REFUTES", "predicted_evidence": [["馬氏管", 1], ["馬氏管", 0]]}
+{"id": 8400, "predicted_label": "SUPPORTS", "predicted_evidence": [["瓦西里·康定斯基", 7], ["瓦西里·康定斯基", 6], ["瓦西里·康定斯基", 5], ["瓦西里·康定斯基", 4], ["瓦西里·康定斯基", 0]]}
+{"id": 4470, "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": null}
+{"id": 2874, "predicted_label": "SUPPORTS", "predicted_evidence": [["藥物", 0], ["藥物", 1], ["生物利用度", 0], ["藥物", 9], ["藥物", 5]]}
+{"id": 6480, "predicted_label": "SUPPORTS", "predicted_evidence": [["惠靈頓", 22], ["惠靈頓", 0], ["惠靈頓", 1], ["惠靈頓_(科羅拉多州)", 4], ["惠靈頓", 14]]}
+{"id": 259, "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": null}
+{"id": 489, "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": null}
+{"id": 1463, "predicted_label": "SUPPORTS", "predicted_evidence": [["諾維亞語", 1], ["諾維亞語", 0], ["諾維亞語", 2], ["諾維亞語", 5]]}
+{"id": 5293, "predicted_label": "REFUTES", "predicted_evidence": [["競爭力", 10], ["競爭力", 13], ["競爭力", 12], ["競爭力", 1], ["Java_ME", 5]]}
+{"id": 6995, "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": null}
+{"id": 1579, "predicted_label": "SUPPORTS", "predicted_evidence": [["京劇四大名旦", 0], ["京劇四大名旦", 4], ["梅蘭芳", 0], ["京劇四大名旦", 10], ["京劇四大名旦", 8]]}
+{"id": 112, "predicted_label": "SUPPORTS", "predicted_evidence": [["非營利組織", 0]]}
+{"id": 1058, "predicted_label": "SUPPORTS", "predicted_evidence": [["單片機", 3], ["單片機", 4], ["單片機", 0], ["微型計算機", 0]]}
+{"id": 7013, "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": null}
+{"id": 3566, "predicted_label": "SUPPORTS", "predicted_evidence": [["維克多·雨果", 0], ["維克多·雨果", 8], ["維克多·雨果", 5], ["維克多·雨果", 4], ["維克多·雨果", 1]]}
+{"id": 2406, "predicted_label": "REFUTES", "predicted_evidence": [["博古", 3], ["博古", 2], ["博古", 9], ["博古", 10], ["博古", 7]]}
+{"id": 7733, "predicted_label": "SUPPORTS", "predicted_evidence": [["伊拉克戰爭", 5], ["伊拉克戰爭", 6], ["伊拉克戰爭", 3], ["伊拉克戰爭", 4]]}
+{"id": 8584, "predicted_label": "SUPPORTS", "predicted_evidence": [["歐陸舞曲", 1], ["歐陸舞曲", 0], ["歐陸舞曲", 2], ["歐陸舞曲", 7]]}
+{"id": 2342, "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": null}
+{"id": 6666, "predicted_label": "SUPPORTS", "predicted_evidence": [["光導纖維", 15], ["光導纖維", 14], ["雙重否定除去", 16], ["光導纖維", 9]]}
+{"id": 1600, "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": null}
+{"id": 5204, "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": null}
+{"id": 2117, "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": null}
+{"id": 7447, "predicted_label": "SUPPORTS", "predicted_evidence": [["查理曼", 28], ["查理曼", 27], ["查理曼", 6], ["查理曼", 0], ["查理曼", 8]]}
+{"id": 3436, "predicted_label": "SUPPORTS", "predicted_evidence": [["韓國行政區劃", 1], ["韓國行政區劃", 0], ["韓國行政區劃", 2]]}
+{"id": 4160, "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": null}
+{"id": 7349, "predicted_label": "REFUTES", "predicted_evidence": [["西廂記", 1], ["王實甫", 0], ["王實甫", 1]]}
+{"id": 3267, "predicted_label": "REFUTES", "predicted_evidence": [["慕容復", 0]]}
+{"id": 4652, "predicted_label": "SUPPORTS", "predicted_evidence": [["雀百靈屬", 0], ["百靈科", 0], ["雀形目", 0]]}
+{"id": 2942, "predicted_label": "REFUTES", "predicted_evidence": [["其他條件不變", 0], ["天衛十三", 0], ["稱謂", 5]]}
+{"id": 6559, "predicted_label": "REFUTES", "predicted_evidence": [["花茶", 0], ["花茶", 1]]}
+{"id": 8678, "predicted_label": "SUPPORTS", "predicted_evidence": [["曹魏", 10], ["曹魏", 0], ["曹魏", 8]]}
+{"id": 549, "predicted_label": "REFUTES", "predicted_evidence": [["骨鰾類", 1], ["骨鰾類", 2]]}
+{"id": 2223, "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": null}
+{"id": 3759, "predicted_label": "REFUTES", "predicted_evidence": [["燧人氏", 1], ["燧人氏", 0], ["燧人氏", 3], ["燧人氏", 7]]}
+{"id": 4506, "predicted_label": "REFUTES", "predicted_evidence": [["新華網", 0]]}
+{"id": 9019, "predicted_label": "REFUTES", "predicted_evidence": [["盧卡斯·赫賈", 1], ["盧卡斯·赫賈", 0], ["盧卡斯·赫賈", 3], ["盧卡斯·赫賈", 2]]}
+{"id": 760, "predicted_label": "REFUTES", "predicted_evidence": [["隋朝", 38], ["隋朝", 35], ["隋朝", 1], ["隋朝", 0], ["隋朝", 20]]}
+{"id": 1520, "predicted_label": "REFUTES", "predicted_evidence": [["突變", 12], ["突變", 13], ["突變", 10], ["突變", 15]]}
+{"id": 6111, "predicted_label": "SUPPORTS", "predicted_evidence": [["印度教神話", 4], ["印歐語系", 0], ["吠陀", 0]]}
+{"id": 7033, "predicted_label": "SUPPORTS", "predicted_evidence": [["林鈺婷", 0], ["林鈺婷", 51], ["林鈺婷", 100], ["林鈺婷", 3], ["林鈺婷", 12]]}
+{"id": 7312, "predicted_label": "SUPPORTS", "predicted_evidence": [["南投縣", 4], ["南投縣", 3], ["南投縣", 0], ["玉山", 0], ["南投縣", 1]]}
+{"id": 3443, "predicted_label": "REFUTES", "predicted_evidence": [["木衛三十九", 4], ["木衛三十九", 10], ["木衛三十九", 0]]}
+{"id": 4997, "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": null}
+{"id": 8218, "predicted_label": "REFUTES", "predicted_evidence": [["披頭四樂隊", 3], ["披頭四樂隊", 0], ["披頭四樂隊", 22], ["披頭四樂隊", 2], ["披頭四樂隊", 11]]}
+{"id": 1218, "predicted_label": "SUPPORTS", "predicted_evidence": [["歐洲民族", 2], ["歐洲民族", 1], ["歐洲民族", 0], ["歐洲民族", 101], ["歐洲民族", 5]]}
+{"id": 1227, "predicted_label": "SUPPORTS", "predicted_evidence": [["歐洲民族", 2], ["歐洲民族", 1], ["歐洲民族", 0], ["歐洲民族", 136], ["歐洲民族", 219]]}
+{"id": 6163, "predicted_label": "REFUTES", "predicted_evidence": [["王安石", 15], ["王安石", 14], ["王安石", 17], ["王安石", 8]]}
+{"id": 5178, "predicted_label": "SUPPORTS", "predicted_evidence": [["李商隱", 24], ["李商隱", 23], ["李商隱", 0], ["黃滔_(詩人)", 1]]}
+{"id": 5053, "predicted_label": "SUPPORTS", "predicted_evidence": [["網景通訊家", 36], ["網景通訊家", 35], ["Beonex_Communicator", 41], ["網景通訊家", 28], ["網景通訊家", 2]]}
+{"id": 8527, "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": null}
+{"id": 3390, "predicted_label": "REFUTES", "predicted_evidence": [["史蒂夫·喬布斯", 4], ["史蒂夫·喬布斯", 13], ["史蒂夫·喬布斯", 11], ["史蒂夫·喬布斯", 0], ["史蒂夫·喬布斯", 7]]}
+{"id": 5262, "predicted_label": "REFUTES", "predicted_evidence": [["基隆市", 4], ["基隆市", 5], ["基隆市", 0], ["基隆市", 7], ["粉嶺北新發展區", 1]]}
+{"id": 208, "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": null}
+{"id": 7258, "predicted_label": "REFUTES", "predicted_evidence": [["木衛一", 9], ["木衛一", 8], ["硫", 5], ["木衛一", 6], ["木衛一", 0]]}
+{"id": 7209, "predicted_label": "REFUTES", "predicted_evidence": [["愛倫·坡", 0], ["愛倫·坡", 9], ["愛倫·坡", 11], ["愛倫·坡", 1], ["愛倫·坡", 6]]}
+{"id": 1707, "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": null}
+{"id": 7972, "predicted_label": "REFUTES", "predicted_evidence": [["泰安服務區_(臺灣)", 0], ["泰安休息站", 5], ["泰安服務區_(山東)", 0], ["中山高速公路", 44], ["臺南市", 0]]}
+{"id": 8591, "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": null}
+{"id": 4605, "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": null}
+{"id": 4874, "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": null}
+{"id": 4919, "predicted_label": "SUPPORTS", "predicted_evidence": [["皮特·烏斯蒂諾夫", 1], ["皮特·烏斯蒂諾夫", 2], ["皮特·烏斯蒂諾夫", 0], ["皮特·烏斯蒂諾夫", 17], ["皮特·烏斯蒂諾夫", 5]]}
+{"id": 666, "predicted_label": "REFUTES", "predicted_evidence": [["亞伯拉罕諸教", 0]]}
+{"id": 8778, "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": null}
+{"id": 8503, "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": null}
+{"id": 3613, "predicted_label": "REFUTES", "predicted_evidence": [["隋朝", 14], ["隋朝", 15], ["隋煬帝", 1], ["隋朝", 13], ["隋煬帝", 0]]}
+{"id": 3779, "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": null}
+{"id": 8266, "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": null}
+{"id": 8210, "predicted_label": "REFUTES", "predicted_evidence": [["SETI@home", 52], ["SETI@home", 31], ["BOINC", 0], ["SETI@home", 61], ["SETI@home", 29]]}
+{"id": 5107, "predicted_label": "SUPPORTS", "predicted_evidence": [["類星體", 7]]}
+{"id": 6881, "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": null}
+{"id": 5933, "predicted_label": "SUPPORTS", "predicted_evidence": [["核裂變", 36]]}
+{"id": 4417, "predicted_label": "REFUTES", "predicted_evidence": [["司馬光", 2], ["司馬光", 1], ["司馬光", 0]]}
+{"id": 5754, "predicted_label": "SUPPORTS", "predicted_evidence": [["資本論", 0]]}
+{"id": 4330, "predicted_label": "SUPPORTS", "predicted_evidence": [["晶體", 7], ["晶體結構", 1], ["晶體", 0], ["馮端", 0], ["晶體結構", 4]]}
+{"id": 2587, "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": null}
+{"id": 7985, "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": null}
+{"id": 4439, "predicted_label": "REFUTES", "predicted_evidence": [["寒武紀大爆發", 5], ["寒武紀大爆發", 9], ["寒武紀大爆發", 0], ["寒武紀大爆發", 6], ["寒武紀大爆發", 11]]}
+{"id": 82, "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": null}
+{"id": 4512, "predicted_label": "REFUTES", "predicted_evidence": [["新華網", 0]]}
+{"id": 8291, "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": null}
+{"id": 6758, "predicted_label": "REFUTES", "predicted_evidence": [["姚明", 8], ["姚明", 1], ["姚明", 7], ["姚明", 5], ["姚明", 6]]}
+{"id": 6068, "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": null}
+{"id": 646, "predicted_label": "REFUTES", "predicted_evidence": [["懷化市", 0], ["懷化市", 8], ["懷化市", 7], ["懷化市", 4], ["懷化市", 1]]}
+{"id": 5922, "predicted_label": "SUPPORTS", "predicted_evidence": [["電動機", 2], ["渦輪扇發動機", 0], ["電動機", 0], ["電動機", 5]]}
+{"id": 3044, "predicted_label": "REFUTES", "predicted_evidence": [["索爾", 1], ["索爾", 0], ["索爾_(消歧義)", 2], ["索爾_(漫威漫畫)", 1], ["索爾_(羅馬神話)", 0]]}
+{"id": 3195, "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": null}
+{"id": 4601, "predicted_label": "SUPPORTS", "predicted_evidence": [["薄熙來", 7], ["薄熙來", 1], ["薄熙來", 2], ["薄熙來", 12], ["薄熙來", 13]]}
+{"id": 5947, "predicted_label": "SUPPORTS", "predicted_evidence": [["林義雄", 2], ["美麗島事件", 19], ["林義雄", 3], ["美麗島事件", 20], ["美麗島事件", 16]]}
+{"id": 6401, "predicted_label": "REFUTES", "predicted_evidence": [["路易十四", 15], ["路易十四", 13], ["路易十四", 17], ["路易十四", 1], ["路易十四", 14]]}
+{"id": 8184, "predicted_label": "SUPPORTS", "predicted_evidence": [["李祖德", 0]]}
+{"id": 5103, "predicted_label": "REFUTES", "predicted_evidence": [["奧迪", 47], ["奧迪", 40], ["奧迪", 34], ["奧迪", 49], ["奧迪", 42]]}
+{"id": 1757, "predicted_label": "REFUTES", "predicted_evidence": [["共和黨_(美國)", 112]]}
+{"id": 207, "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": null}
+{"id": 5424, "predicted_label": "REFUTES", "predicted_evidence": [["忒堤斯", 0]]}
+{"id": 7837, "predicted_label": "REFUTES", "predicted_evidence": [["正壬醇", 1], ["正壬醇", 0], ["壬糖", 0]]}
+{"id": 686, "predicted_label": "REFUTES", "predicted_evidence": [["手工藝", 0], ["手工藝", 1]]}
+{"id": 1442, "predicted_label": "SUPPORTS", "predicted_evidence": [["英格蘭教會", 0], ["亨利八世", 10], ["亨利八世", 2], ["亨利八世", 4], ["亨利八世", 5]]}
+{"id": 7146, "predicted_label": "SUPPORTS", "predicted_evidence": [["費雯·麗", 5], ["費雯·麗", 1], ["費雯·麗", 2]]}
+{"id": 8634, "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": null}
+{"id": 1890, "predicted_label": "REFUTES", "predicted_evidence": [["印象派", 12], ["印象派", 11], ["印象派", 36], ["印象派", 0], ["印象派", 8]]}
+{"id": 5526, "predicted_label": "SUPPORTS", "predicted_evidence": [["臺灣交通", 21]]}
+{"id": 4036, "predicted_label": "SUPPORTS", "predicted_evidence": [["廖文毅", 1], ["廖文毅", 0], ["臺灣民族主義", 0], ["臺灣民族主義", 2], ["臺灣民族主義", 5]]}
+{"id": 6218, "predicted_label": "REFUTES", "predicted_evidence": [["托馬斯·庫恩", 3], ["托馬斯·庫恩", 0], ["科學革命的結構", 12], ["科學革命的結構", 0], ["托馬斯·庫恩", 4]]}
+{"id": 7948, "predicted_label": "SUPPORTS", "predicted_evidence": [["臺中市大里區大元國民小學", 2], ["臺中市大里區大元國民小學", 3], ["臺中市大里區大元國民小學", 0], ["臺中市大里區大元國民小學", 32], ["臺中市大里區大元國民小學", 26]]}
+{"id": 4414, "predicted_label": "REFUTES", "predicted_evidence": [["肥胖症", 16], ["肥胖症", 9], ["肥胖症", 10], ["肥胖症", 17], ["肥胖症", 22]]}
+{"id": 7237, "predicted_label": "REFUTES", "predicted_evidence": [["性幻想", 13], ["性幻想", 2], ["性幻想", 3], ["性幻想", 7], ["性幻想", 12]]}
+{"id": 6885, "predicted_label": "SUPPORTS", "predicted_evidence": [["停雲詩社", 0], ["林保淳", 0], ["停雲詩社", 1], ["停雲詩社", 12], ["停雲詩社", 2]]}
+{"id": 7649, "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": null}
+{"id": 1502, "predicted_label": "REFUTES", "predicted_evidence": [["木衛三", 20]]}
+{"id": 4313, "predicted_label": "REFUTES", "predicted_evidence": [["阿托品", 1], ["阿托品", 3], ["阿托品", 2], ["阿托品", 6], ["阿托品", 14]]}
+{"id": 6353, "predicted_label": "SUPPORTS", "predicted_evidence": [["張谷英村", 9], ["張谷英村", 8], ["張谷英村", 4], ["張谷英村", 0], ["張谷英村", 5]]}
+{"id": 5509, "predicted_label": "SUPPORTS", "predicted_evidence": [["粵菜", 10], ["粵菜", 2], ["粵菜", 0], ["粵菜", 9], ["粵菜", 5]]}
+{"id": 725, "predicted_label": "SUPPORTS", "predicted_evidence": [["銀川市", 2], ["銀川市", 0]]}
+{"id": 3792, "predicted_label": "SUPPORTS", "predicted_evidence": [["少花茴芹", 1], ["少花茴芹", 0], ["茴芹屬", 72], ["茴芹屬", 6], ["茴芹屬", 98]]}
+{"id": 5332, "predicted_label": "SUPPORTS", "predicted_evidence": [["手工藝", 0], ["靈感", 3], ["靈感", 2], ["國立臺灣工藝研究發展中心", 0], ["手工藝", 4]]}
+{"id": 1656, "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": null}
+{"id": 5432, "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": null}
+{"id": 6464, "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": null}
+{"id": 6897, "predicted_label": "SUPPORTS", "predicted_evidence": [["晶體學", 11], ["晶體", 19], ["衍射", 0], ["晶體學", 4]]}
+{"id": 575, "predicted_label": "REFUTES", "predicted_evidence": [["成龍", 13], ["成龍", 14], ["成龍", 15], ["廚師", 1], ["成龍", 1]]}
+{"id": 4109, "predicted_label": "REFUTES", "predicted_evidence": [["奧迪", 35], ["奧迪", 34], ["奧迪", 14], ["奧迪", 4], ["奧迪", 16]]}
+{"id": 3103, "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": null}
+{"id": 4872, "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": null}
+{"id": 7032, "predicted_label": "SUPPORTS", "predicted_evidence": [["林鈺婷", 100], ["林鈺婷", 3], ["林鈺婷", 51], ["林鈺婷", 12], ["林鈺婷", 0]]}
+{"id": 5626, "predicted_label": "REFUTES", "predicted_evidence": [["震盪波蠕蟲", 14], ["震盪波蠕蟲", 12], ["震盪波蠕蟲", 13]]}
+{"id": 5319, "predicted_label": "SUPPORTS", "predicted_evidence": [["柬埔寨", 5], ["洞裏薩湖", 0], ["柬埔寨", 0]]}
+{"id": 3600, "predicted_label": "SUPPORTS", "predicted_evidence": [["臺灣團結聯盟", 88], ["臺灣團結聯盟", 85], ["臺灣團結聯盟", 84]]}
+{"id": 7877, "predicted_label": "SUPPORTS", "predicted_evidence": [["氰化鋰", 7], ["氰化鈉", 4], ["氰化鋰", 3], ["氰化鋰", 8]]}
+{"id": 7740, "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": null}
+{"id": 8262, "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": null}
+{"id": 8982, "predicted_label": "REFUTES", "predicted_evidence": [["北京航空航天大學", 129], ["北京航空航天大學", 18], ["北京航空航天大學", 125], ["北京航空航天大學", 74], ["英文中國郵報", 0]]}
+{"id": 4262, "predicted_label": "REFUTES", "predicted_evidence": [["總統制", 0], ["政府首腦", 5], ["政府首腦", 0], ["總統制", 1]]}
+{"id": 1963, "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": null}
+{"id": 1085, "predicted_label": "SUPPORTS", "predicted_evidence": [["文森特·梵高", 6], ["文森特·梵高", 8], ["文森特·梵高", 7], ["文森特·梵高", 11]]}
+{"id": 310, "predicted_label": "SUPPORTS", "predicted_evidence": [["北京理工大學", 75], ["北京理工大學", 71], ["北京理工大學", 65], ["北京理工大學", 69], ["北京理工大學", 54]]}
+{"id": 4256, "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": null}
+{"id": 1843, "predicted_label": "REFUTES", "predicted_evidence": [["英格蘭足球超級聯賽", 1], ["英格蘭足球超級聯賽", 0], ["英格蘭足球超級聯賽", 11], ["英格蘭足球超級聯賽", 2], ["英格蘭足球超級聯賽", 18]]}
+{"id": 5359, "predicted_label": "SUPPORTS", "predicted_evidence": [["天衛三", 11], ["天衛三", 8]]}
+{"id": 2851, "predicted_label": "REFUTES", "predicted_evidence": [["卡爾·央斯基", 0], ["卡爾·央斯基", 1]]}
+{"id": 6504, "predicted_label": "REFUTES", "predicted_evidence": [["貝尼託·墨索里尼", 28], ["貝尼託·墨索里尼", 27], ["貝尼託·墨索里尼", 0]]}
+{"id": 2360, "predicted_label": "REFUTES", "predicted_evidence": [["三苗", 3], ["三苗", 4], ["桓楚", 1], ["三苗", 29], ["三苗", 32]]}
+{"id": 4917, "predicted_label": "REFUTES", "predicted_evidence": [["達悟族", 12], ["達悟族", 8]]}
+{"id": 1888, "predicted_label": "SUPPORTS", "predicted_evidence": [["印象派", 12], ["新藝術運動", 7], ["新藝術運動", 0], ["印象派", 11], ["印象派", 8]]}
+{"id": 2354, "predicted_label": "SUPPORTS", "predicted_evidence": [["三苗", 4], ["三苗", 3], ["桓楚", 1], ["三苗", 29]]}
+{"id": 7300, "predicted_label": "REFUTES", "predicted_evidence": [["威廉·莎士比亞", 5], ["威廉·莎士比亞", 6], ["威廉·莎士比亞", 19], ["威廉·莎士比亞", 0], ["威廉·莎士比亞", 7]]}
+{"id": 7341, "predicted_label": "REFUTES", "predicted_evidence": [["本傑明·富蘭克林", 25], ["本傑明·富蘭克林", 3], ["本傑明·富蘭克林", 26], ["本傑明·富蘭克林", 1], ["本傑明·富蘭克林", 0]]}
+{"id": 7819, "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": null}
+{"id": 4211, "predicted_label": "SUPPORTS", "predicted_evidence": [["倫敦大學學院", 79], ["倫敦大學學院", 78], ["倫敦大學學院", 77], ["倫敦大學學院", 61], ["倫敦大學學院", 74]]}
+{"id": 6394, "predicted_label": "REFUTES", "predicted_evidence": [["資興市", 1], ["資興市", 2], ["上游", 2], ["上游", 4], ["資興市", 0]]}
+{"id": 8293, "predicted_label": "REFUTES", "predicted_evidence": [["Min", 4], ["國家標準時間", 0], ["Min", 0], ["御定駢字類編", 3]]}
+{"id": 1959, "predicted_label": "REFUTES", "predicted_evidence": [["威廉·亨利·哈里森", 0], ["威廉·亨利·哈里森", 13], ["威廉·亨利·哈里森_(懷俄明州衆議員)", 0], ["威廉·亨利·哈里森", 23], ["威廉·亨利·哈里森", 17]]}
+{"id": 4661, "predicted_label": "REFUTES", "predicted_evidence": [["白話字", 13], ["白話字", 7], ["白話字", 16], ["白話字", 21], ["白話字", 22]]}
+{"id": 5668, "predicted_label": "REFUTES", "predicted_evidence": [["汾河", 0], ["汾河", 1], ["汾河", 14], ["汾河", 3], ["汾河公園", 0]]}
+{"id": 4372, "predicted_label": "REFUTES", "predicted_evidence": [["泰坦尼克號", 5], ["泰坦尼克號", 0]]}
+{"id": 8250, "predicted_label": "SUPPORTS", "predicted_evidence": [["麗臺科技", 1], ["麗臺科技", 4], ["麗臺科技", 0], ["麗臺科技", 6]]}
+{"id": 7215, "predicted_label": "NOT ENOUGH INFO", "predicted_evidence": null}
+{"id": 8911, "predicted_label": "REFUTES", "predicted_evidence": [["斯科特·布赫茲", 0], ["斯科特·布赫茲", 1]]}
